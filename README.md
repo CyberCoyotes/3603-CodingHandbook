@@ -1,3 +1,4 @@
-# Future home of our handbook
+# Welcome
+Welcome to the future home of our team handbook.
 
-# Controls
+# <a href="https://github.com/CyberCoyotes/CyberCoyotesHandbook/blob/main/Controls.md">Controls</a>
