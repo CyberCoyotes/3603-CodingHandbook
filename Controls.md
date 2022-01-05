@@ -8,7 +8,7 @@
 ## Trajectories
 [Trajectory Generation and Following with WPILib](https://docs.wpilib.org/en/stable/docs/software/advanced-controls/trajectories/index.html) FIRST documentation
 
-[Introduction to PathWeaver](https://docs.wpilib.org/en/stable/docs/software/wpilib-tools/pathweaver/introduction.html) FIRST documentation <i>Not using with Swerve
+[Introduction to PathWeaver](https://docs.wpilib.org/en/stable/docs/software/wpilib-tools/pathweaver/introduction.html) FIRST documentation * * Not using with Swerve * *
   
   
 
