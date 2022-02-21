@@ -1,4 +1,2 @@
 # Welcome
-Welcome to the future home of our team handbook.
-
-# <a href="https://github.com/CyberCoyotes/CyberCoyotesHandbook/blob/main/Controls.md">Controls</a>
+Welcome to the future home of our team handbook. The handbook is still in development during the 2022 season with the bulk of our notes in the [Cyber Coyotes Hanbook wiki](https://github.com/CyberCoyotes/Handbook/wiki).
