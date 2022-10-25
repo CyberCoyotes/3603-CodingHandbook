@@ -19,3 +19,6 @@ To further help teams integrate motion profiling into their command-based robot 
 [2019 Motion Magic](https://docs.google.com/presentation/d/1zzMI3DW-elButNH0QLFdYnDyaIapeI-zZnv9CAC6WY8/edit) slide presentation. Video of Corey Applegate(3244) [CTRE Motion Magic](https://youtu.be/VQIgdLslU_E)
 
 Come highly recommended [Team 195- FRC Motion Control: part 1](https://youtu.be/4rbT-oscpx0) BUT... its from 2018 AND its 4.5 hrs long for both parts ... OMG
+
+----
+[Handbook Home Page](https://github.com/CyberCoyotes/Handbook)

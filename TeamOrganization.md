@@ -50,3 +50,5 @@ You
 Scouting Team *
 Collect and enter data related to competition.
 
+----
+[Handbook Home Page](https://github.com/CyberCoyotes/Handbook)
