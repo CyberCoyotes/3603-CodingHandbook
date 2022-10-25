@@ -3,3 +3,4 @@ Welcome to the future home of our team handbook. The handbook is still in develo
 
 ## Controls
 [Controls](https://github.com/CyberCoyotes/Handbook/blob/main/Controls.md)
+[CodingExamples](../Controls-Examples.md)
