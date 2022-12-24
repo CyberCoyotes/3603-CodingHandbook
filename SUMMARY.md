@@ -13,18 +13,14 @@ We attend at least two events each season in late winter/early spring [Events](.
 Learn more about [Fundraising](../main/Fundraising.md)
 
 ## Team Organization
-We are ONE team, but tasks are are dividing into teams to better meet our goals. Learn more about [Team Organization](..main/TeamOrganization.md)
+We are ONE team, but tasks are are dividing into sub-teams to better meet our goals. Learn more about [Team Organization](..main/TeamOrganization.md)
 
 ### Awards Team
 
 ### Build Team
 
 ### Controls Team
-- [Controls](https://github.com/CyberCoyotes/Handbook/blob/main/Controls.md)
+- [Controls](../main/controls.md)
 - [Coding Examples](../main/Controls-CodeExamples.md)
 - [Motion Profiling](../main/Controls-MotionProfiling.md)
 - [Vision Systems](../main/Controls-VisionSystems.md)
-
-----
-[Handbook Home Page](https://github.com/CyberCoyotes/Handbook)
-Some text
