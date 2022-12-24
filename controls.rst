@@ -32,4 +32,12 @@ We are using the MK3 swerve module from Swerve Drive Specialties.  Each wheel mo
 ### White Papers
 1. [Chimera's Swerve PDF](https://www.first1684.com/uploads/2/0/1/6/20161347/chimiswerve_whitepaper__2_.pdf)
 
-.. contents::
+.. toc::
+    :maxdepth: 1
+    :hidden:
+    :caption: Controls
+
+    controls/code-examples
+    controls/motion-profiling
+    controls/photonvision-limelight
+    controls/vision-systems
