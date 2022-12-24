@@ -7,7 +7,8 @@ Welcome to the team documentation page for FRC 3603. The documentation is primar
 
 .. toctree::
    :maxdepth: 1
-   
+   :hidden:
+   :caption: Calendar
    calendar
 
 .. toctree::
