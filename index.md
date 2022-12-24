@@ -1,5 +1,8 @@
-# Calendar
-See the [Robotics Calendar](https://calendar.google.com/calendar/embed?src=c_65q334j3dtu6esf7f0solmu91o%40group.calendar.google.com&ctz=America%2FDetroit)
+====
+Calendar
+====
+See the 'Robotics Calendar'_.
+.._Robotics Calendar: https://calendar.google.com/calendar/embed?src=c_65q334j3dtu6esf7f0solmu91o%40group.calendar.google.com&ctz=America%2FDetroit
 
 # Community Involvement
 We take an active part in our school community, town, and mentoring. Learn more about our [community involvement](../main/Community.md).
