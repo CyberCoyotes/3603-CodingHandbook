@@ -7,14 +7,24 @@ Welcome to the team documentation page for FRC 3603. The documentation is primar
 
 .. toctree::
    :maxdepth: 1
-   :hidden: 
+   
    calendar
 
 .. toctree::
    :maxdepth: 1
    :hidden:
+   :caption: Controls
    controls
 
+.. toctree::
+   :maxdepth: 1
+   :hidden: 
+   business
+
+.. toctree::
+   :maxdepth: 1
+   :hidden: 
+   community
 
 ====
 Community Involvement
