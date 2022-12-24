@@ -5,7 +5,6 @@ Welcome to the team documentation page for FRC 3603. The documentation is primar
 
 .. toctree::
    :maxdepth: 2
-   :hidden:
    :caption: Controls
 
    controls
