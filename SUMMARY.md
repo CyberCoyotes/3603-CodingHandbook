@@ -7,7 +7,7 @@ See the [Robotics Calendar](https://calendar.google.com/calendar/embed?src=c_65q
 We take an active part in our school community, town, and mentoring. Learn more about our [community involvement](../main/Community.md).
 
 ## Events
-We attend at least two events each season in late winter/early spring [Events](../main/Events.md)
+We attend at least two events each season in late winter/early spring [Events](../main/events.md)
 
 ## Fundraising
 Learn more about [Fundraising](../main/Fundraising.md)
