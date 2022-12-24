@@ -2,8 +2,8 @@
 
 ## README
 
-* [First page's title](page1/README.md)
+* [Welcome](page1/README.md)
 
-## A second-page group
+## CONTROLS
 
-* [Yet another page](another-page.md)
+* [Yet another page](controls.md)
