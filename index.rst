@@ -6,7 +6,7 @@ Welcome to the team documentation page for FRC 3603. The documentation is primar
 ====
 Calendar
 ====
-See the 'Robotics Calendar <https://calendar.google.com/calendar/embed?src=c_65q334j3dtu6esf7f0solmu91o%40group.calendar.google.com&ctz=America%2FDetroit>'_
+See the `Robotics Calendar <https://calendar.google.com/calendar/embed?src=c_65q334j3dtu6esf7f0solmu91o%40group.calendar.google.com&ctz=America%2FDetroit>`_
 
 ====
 Community Involvement
