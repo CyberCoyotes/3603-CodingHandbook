@@ -1,14 +1,31 @@
-# Controls
-## Hardware
-We are using the MK3 swerve module from Swerve Drive Specialties.  Each wheel module uses two Falcon 500 to power them (one for drive and one for rotation).  We use the CANcoder from CTR Electronics for the encoder information as well.  
-## Swerve
+====
+Controls
+====
+.. toctree::
+    :maxdepth: 1
+    :hidden:
+    :caption: Controls
 
-### Command Based Programming
+    controls/code-examples
+    controls/motion-profiling
+    controls/photonvision-limelight
+    controls/vision-systems
+
+Hardware
+----
+We are using the MK3 swerve module from Swerve Drive Specialties.  Each wheel module uses two Falcon 500 to power them (one for drive and one for rotation).  We use the CANcoder from CTR Electronics for the encoder information as well.  
+
+Swerve
+----
+
+Command Based Programming
+----
 1. [Command-Based Programming](https://docs.wpilib.org/en/stable/docs/software/commandbased/index.html) FIRST documenation
 2. [FRC 0 to Autonomous: #5 Command-Based Robot](https://youtu.be/VoxeXqy1bdQ) video
 3. [Overview - SwerveIO 5.0.2 User Documentation](https://javadoc.bancino.net/SwerveIO/latest/)
 
-### Trajectories
+Trajectories
+----
 1. [Trajectory Generation and Following with WPILib](https://docs.wpilib.org/en/stable/docs/software/advanced-controls/trajectories/index.html) FIRST documentation
 2. [Introduction to PathWeaver](https://docs.wpilib.org/en/stable/docs/software/wpilib-tools/pathweaver/introduction.html) FIRST documentation *Not using with Swerve*
 3. [PathPlanner](https://github.com/mjansen4857/pathplanner/wiki)
@@ -32,12 +49,4 @@ We are using the MK3 swerve module from Swerve Drive Specialties.  Each wheel mo
 ### White Papers
 1. [Chimera's Swerve PDF](https://www.first1684.com/uploads/2/0/1/6/20161347/chimiswerve_whitepaper__2_.pdf)
 
-.. toc::
-    :maxdepth: 1
-    :hidden:
-    :caption: Controls
 
-    controls/code-examples
-    controls/motion-profiling
-    controls/photonvision-limelight
-    controls/vision-systems
