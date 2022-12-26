@@ -1,8 +1,9 @@
 ====
 Controls Team
 ====
+If you are new to programming you might want to learn more about `command based`_ first.
 
-We are creating this section of the handbook to our FTC team coaches, students and high school programmers learn more about programming and controls in the FRC setting. We program in Java.
+A little history about our controls approaches.
 
 Prior to 2019
 ----
@@ -26,6 +27,7 @@ Prior to 2019
 .. toctree::
     :maxdepth: 1
     :caption: Learn about Controls
+    :hidden:
 
     controls/PID
 
