@@ -4,14 +4,14 @@ Controls Team
 
 We are creating this section of the handbook to our FTC team coaches, students and high school programmers learn more about programming and controls in the FRC setting. We program in Java.
 
-2019 and earlier
+Prior to 2019
 ----
-* **Drivetrain**: Mecanum, tank drive, rhinotracks, or omni combos depending on the game demands
-* **Drive motors**: CIM motors
+* **Drivetrain**: Mecanum, tank drive, rhinotracks, or omni wheels combined with others depending on the game demands
+* **Drive motors**: CIM motors mostly, switched to Falcons in 2019?
 * **Gyro**: NavX
 * **Programming**: *Iterative* Java
 
-2022 Season changes
+2022 Season Changes
 ----
 * **Drivetrain**: MK3 swerve
 * **Drive motors**: Falcon500 motors
@@ -23,9 +23,8 @@ We are creating this section of the handbook to our FTC team coaches, students a
 * **Gyro**: CTRE Pigeon
 * **Programming**: *Command based* Java adapted from Bear drive code
 
-
-.. toctree::
-    
+Table of Contents
+---    
     controls/PID
 
     controls/motion-profiling
