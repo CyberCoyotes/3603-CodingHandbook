@@ -25,8 +25,7 @@ Prior to 2019
 
 .. toctree::
     :maxdepth: 1
-    :caption: Controls Table of Contents
-    :hidden:
+    :caption: Learn about Controls
 
     controls/PID
 
