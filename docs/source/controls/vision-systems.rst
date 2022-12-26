@@ -6,12 +6,12 @@ Pixy 2
 ----
 
 Official Pixy 2 Documentation
---
-* [Pixy 2 Official setup](https://docs.pixycam.com/wiki/doku.php?id=wiki:v2:porting_guide).
-* [Downloads](https://pixycam.com/downloads-pixy2/)
+^^
+* `Pixy 2 Official setup <https://docs.pixycam.com/wiki/doku.php?id=wiki:v2:porting_guide>`_.
+* `Downloads <https://pixycam.com/downloads-pixy2/>`_.
 
 Other Pixy2 Resources
---
+^^
 Here are some other resources on Pixy2. We have tried it in past seasons and still have the camera hardware, but have been using Limelight and considering Photovision moving ahead with the 2023 season.
 *  `Pixy2 -
    wiki <https://github.com/CyberCoyotes/Handbook/wiki/Pixy2>`_.
@@ -33,7 +33,7 @@ Limelight 2
 
 
 Limelight Setup
---
+^^
 **Part 1. Thresholding**
 * Start with Hue
 * Saturation

@@ -23,11 +23,10 @@ Prior to 2019
 * **Gyro**: CTRE Pigeon
 * **Programming**: *Command based* Java adapted from Bear drive code
 
-Table of Contents
------
-
 .. toctree::
     :maxdepth: 1
+    :caption: Controls Table of Contents
+    :hidden:
 
     controls/PID
 
