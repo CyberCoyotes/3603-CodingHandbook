@@ -24,7 +24,10 @@ Prior to 2019
 * **Programming**: *Command based* Java adapted from Bear drive code
 
 Table of Contents
----    
+-----
+
+.. toctree::
+
     controls/PID
 
     controls/motion-profiling
