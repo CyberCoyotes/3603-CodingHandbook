@@ -11,7 +11,7 @@ Table of Contents
 -----------------
 
 .. toctree::
-   :max-depth: 2
+   :maxdepth: 2
    
    calendar
    
