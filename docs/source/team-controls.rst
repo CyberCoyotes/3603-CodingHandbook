@@ -22,7 +22,7 @@ Prior to 2019
 ----
 * **Drivetrain**: MK4 swerve
 * **Gyro**: CTRE Pigeon
-* **Programming**: *Command based* Java adapted from Bear drive code
+* **Programming**: *Command based* Java adapted from `BearSwerve <https://github.com/6391-Ursuline-Bearbotics/BearSwerve>`_ code base.
 
 .. toctree::
     :maxdepth: 1
