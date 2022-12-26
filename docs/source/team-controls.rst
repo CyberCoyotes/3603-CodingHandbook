@@ -7,17 +7,17 @@ controls in the FRC setting.
 
 .. toctree::
     
-    PID
+    controls/PID
 
-    motion-profiling
+    controls/motion-profiling
 
-    pathplanner
+    controls/pathplanner
 
     power-distribution-hub
     
-    pixy2
+    controls/pixy2
 
-    code-examples
+    controls/code-examples
    
-    style-conventions
+    controls/style-conventions
 

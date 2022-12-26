@@ -1,6 +1,6 @@
+====
 Cyber Coyotes's Handbook
-===================================
-
+====
 Welcome to the documentation place for FRC 3603, the Cyber Coyotes.
 We are a small, but dedicated FRC team in central Michigan.
 Our aim with this documentation is to share our learning with future team members and the larger FIRST community.
@@ -12,6 +12,8 @@ Table of Contents
 
 .. toctree::
    
-   build
+   calendar
    
-   controls
+   team-build
+   
+   team-controls
