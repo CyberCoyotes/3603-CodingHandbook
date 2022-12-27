@@ -26,14 +26,14 @@ Here are some other resources on Pixy2. We have tried it in past seasons and sti
 
 Limelight 2
 ----
-* Limelight - Docs (https://docs.limelightvision.io/en/latest/).
-* Limelight - Chief Delphi (https://www.chiefdelphi.com/t/limelight-2022-0-3-update/400306).
-* Basic Vision in FRC Programming - YouTube (https://youtu.be/hk8yAgDogPE) - Broward Botcats
-* Limelight 2022.0.3 Update - Chief Delphi (https://www.chiefdelphi.com/t/limelight-2022-0-3-update/400306)
+* Limelight `Docs <https://docs.limelightvision.io/en/latest/)`_.
+* Limelight `<https://www.chiefdelphi.com/t/limelight-2022-0-3-update/400306>`_ Chief Delphi
+* `Basic Vision in FRC Programming - YouTube <https://youtu.be/hk8yAgDogPE>`_ Broward Botcats
+* `Limelight 2022.0.3 Update <https://www.chiefdelphi.com/t/limelight-2022-0-3-update/400306)`_ Chief Delphi
 
 
 Limelight Setup
-^^
+--
 **Part 1. Thresholding**
 * Start with Hue
 * Saturation
@@ -48,3 +48,5 @@ PhotonVision
 * PhotonVision 2021 - Chief Delphi (https://www.chiefdelphi.com/t/photonvision-2021-official-release/390168).
 * Lime Light & The New Gloworm (https://youtu.be/P0SwBrbCVwU) Jumpstart Robotics - YouTube
 * Glowormvision (https://gloworm.vision/)
+
+*As we are leaning more towards PhotonVision for the 2023 season, a dedicated documentation page is in the works*

@@ -16,6 +16,8 @@ Controls Team
     
     controls/vision-systems
 
+    controls/vision-photonvision-on-a-limelight
+
     controls/code-examples
 
     controls/style-guides
@@ -42,5 +44,3 @@ A little history about our controls approaches.
 * **Drivetrain**: MK4 swerve
 * **Gyro**: CTRE Pigeon
 * **Programming**: *Command based* Java adapted from `BearSwerve <https://github.com/6391-Ursuline-Bearbotics/BearSwerve>`_ code base.
-
-
