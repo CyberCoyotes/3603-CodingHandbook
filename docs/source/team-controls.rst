@@ -38,4 +38,5 @@ Prior to 2019
     controls/vision-systems
 
     controls/code-examples
-   
+
+    controls/style-guides
