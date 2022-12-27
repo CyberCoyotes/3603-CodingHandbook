@@ -24,7 +24,7 @@ If you are new to programming you might want to learn more about command based f
 
 A little history about our controls approaches.
 
-Prior to 2019
+2019 and Prior
 ----
 * **Drivetrain**: Mecanum, tank drive, rhinotracks, or omni wheels combined with others depending on the game demands
 * **Drive motors**: CIM motors mostly, switched to Falcons in 2019?

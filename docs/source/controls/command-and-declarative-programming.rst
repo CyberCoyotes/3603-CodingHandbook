@@ -1,5 +1,5 @@
 ====
-COMMAND BASED
+Command Based Programming
 ====
 
 There are two approaches to making an FRC robot: **Imperative**, and **Command-Based**, of which we use the latter.
@@ -54,7 +54,7 @@ A quick distinction is in order:
 </tbody>
 </table>
 
-If you yet hunger for perfection beyond Declarative, check out the SOLID principles, one of the most popular set of guidelines for clean code out there. I would recommend watching Tim Corey's videos on the priciples. They're boring as *redacted*, but they are presented carefully enough to actually teach. Another caveat is that he uses C#. Even though he uses a different language, the priciples still apply in Java. Also, C# and Java are very similar in basic syntax, with differences you don't need to worry about yet. 
+If you yet hunger for perfection beyond Declarative, check out the SOLID principles, one of the most popular set of guidelines for clean code out there. I would recommend watching Tim Corey's videos on the principles. They're boring as *redacted*, but they are presented carefully enough to actually teach. Another caveat is that he uses C#. Even though he uses a different language, the principles still apply in Java. Also, C# and Java are very similar in basic syntax, with differences you don't need to worry about yet. 
 
 Resources
 ----
@@ -64,20 +64,20 @@ Resources
 
 Trajectories
 ----
-1. [Trajectory Generation and Following with WPILib](https://docs.wpilib.org/en/stable/docs/software/advanced-controls/trajectories/index.html) FIRST documentation
-2. [Introduction to PathWeaver](https://docs.wpilib.org/en/stable/docs/software/wpilib-tools/pathweaver/introduction.html) FIRST documentation *Not using with Swerve*
-3. [PathPlanner](https://github.com/mjansen4857/pathplanner/wiki)
-4. [Ramsete Controller](https://docs.wpilib.org/en/stable/docs/software/advanced-controls/trajectories/ramsete.html) The Ramsete Controller is a trajectory tracker that is built in to WPILib. This tracker can be used to accurately track trajectories with correction for minor disturbances.
+1. `Trajectory Generation and Following with WPILib <https://docs.wpilib.org/en/stable/docs/software/advanced-controls/trajectories/index.html>`_ FIRST documentation
+2. `Introduction to PathWeaver <https://docs.wpilib.org/en/stable/docs/software/wpilib-tools/pathweaver/introduction.html>`_ FIRST documentation *Not using with Swerve*
+3. `PathPlanner <https://github.com/mjansen4857/pathplanner/wiki>`_
+4. `Ramsete Controller <https://docs.wpilib.org/en/stable/docs/software/advanced-controls/trajectories/ramsete.html>`_ The Ramsete Controller is a trajectory tracker that is built in to WPILib. This tracker can be used to accurately track trajectories with correction for minor disturbances.
 
 Chief Delphi References
 ----
-1. [A Problem When Using Trajectory in Swerve](https://www.chiefdelphi.com/t/a-problem-when-using-trajectory-in-a-swerve-drive/395400)
-2. [Seeking Examples for Applying Trajectory Constraints to WPI Trajectory](https://www.chiefdelphi.com/t/seeking-examples-for-applying-trajectory-constraints-to-wpi-trajectory/392813)
-3. [Running Multiple Cameras - USB for front and back or side viewing ](https://www.chiefdelphi.com/t/is-it-possible-to-have-two-cameras/338519/2)
-4. [3630 Stampede Robotics OffSeason Swerve Code release](https://www.chiefdelphi.com/t/3630-stampede-robotics-offseason-swerve-code-release/398713)
-5. AUTON help https://www.chiefdelphi.com/t/motion-profile-in-swerve-autonomous-mode/398318/7
-6. [Paper: 4 wheel independent drive & independent steering "swerve" - CD-Media: Papers](https://www.chiefdelphi.com/t/paper-4-wheel-independent-drive-independent-steering-swerve/107383)
+1. `A Problem When Using Trajectory in Swerve <https://www.chiefdelphi.com/t/a-problem-when-using-trajectory-in-a-swerve-drive/395400>`_
+2. `Seeking Examples for Applying Trajectory Constraints to WPI Trajectory <https://www.chiefdelphi.com/t/seeking-examples-for-applying-trajectory-constraints-to-wpi-trajectory/392813>`_
+3. `Running Multiple Cameras - USB for front and back or side viewing <https://www.chiefdelphi.com/t/is-it-possible-to-have-two-cameras/338519/2>`_
+4. `3630 Stampede Robotics OffSeason Swerve Code release <https://www.chiefdelphi.com/t/3630-stampede-robotics-offseason-swerve-code-release/398713>`_
+5. AUTON help `<https://www.chiefdelphi.com/t/motion-profile-in-swerve-autonomous-mode/398318/7>`_
+6. `Paper: 4 wheel independent drive & independent steering "swerve" - CD-Media: Papers <https://www.chiefdelphi.com/t/paper-4-wheel-independent-drive-independent-steering-swerve/107383>`_
 
 White Papers
 ----
-1. [Chimera's Swerve PDF](https://www.first1684.com/uploads/2/0/1/6/20161347/chimiswerve_whitepaper__2_.pdf)
+1. `Chimera's Swerve PDF <https://www.first1684.com/uploads/2/0/1/6/20161347/chimiswerve_whitepaper__2_.pdf>`_.
