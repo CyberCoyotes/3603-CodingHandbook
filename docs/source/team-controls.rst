@@ -1,7 +1,7 @@
 ====
 Controls Team
 ====
-If you are new to programming you might want to learn more about `command based`_ first.
+If you are new to programming you might want to learn more about command based first.
 
 A little history about our controls approaches.
 
@@ -28,6 +28,8 @@ Prior to 2019
     :maxdepth: 1
     :caption: Learn about Controls
     :hidden:
+
+    controls/command-and-declarative-programming
 
     controls/PID
 
