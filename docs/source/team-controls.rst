@@ -1,6 +1,25 @@
 ====
 Controls Team
 ====
+.. toctree::
+    :maxdepth: 1
+    :caption: Learn about Controls
+    :hidden:
+
+    controls/command-and-declarative-programming
+
+    controls/PID
+
+    controls/motion-profiling
+
+    controls/pathplanner
+    
+    controls/vision-systems
+
+    controls/code-examples
+
+    controls/style-guides
+    
 If you are new to programming you might want to learn more about command based first.
 
 A little history about our controls approaches.
@@ -24,21 +43,4 @@ Prior to 2019
 * **Gyro**: CTRE Pigeon
 * **Programming**: *Command based* Java adapted from `BearSwerve <https://github.com/6391-Ursuline-Bearbotics/BearSwerve>`_ code base.
 
-.. toctree::
-    :maxdepth: 1
-    :caption: Learn about Controls
-    :hidden:
 
-    controls/command-and-declarative-programming
-
-    controls/PID
-
-    controls/motion-profiling
-
-    controls/pathplanner
-    
-    controls/vision-systems
-
-    controls/code-examples
-
-    controls/style-guides
