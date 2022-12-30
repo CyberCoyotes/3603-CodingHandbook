@@ -12,5 +12,4 @@ Resources
 * `Full Robot Pose Estimation w/ PhotonVision - doc <https://docs.google.com/document/d/1i9y_xErWBRWlO6Ws0qoYoJbCUr-QSafhKVNoYOwd-ng/view>`_ doc shared via Discord (2022-12)
 * `PhotonVision Beta 2023: AprilTags <https://www.chiefdelphi.com/t/photonvision-beta-2023-apriltags/415626>`_ Chief Delphi
 * `PhotonVision beta 3D calibration lags on limelight camera <https://www.chiefdelphi.com/t/photonvision-beta-3d-calibration-lags-on-limelight-camera/416986/19>`_ Chief Delphi.
-* `Vision Programming with AprilTags | Jumpstart 2023
-<https://youtu.be/TG9KAa2EGzQ?t=1104>`_.
+* `Vision Programming with AprilTags Jumpstart 2023 <https://youtu.be/TG9KAa2EGzQ?t=1104>`_.
