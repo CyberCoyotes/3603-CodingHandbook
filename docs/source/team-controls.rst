@@ -29,7 +29,7 @@ A good place to start for new and veteran Controls Team is `FIRST Robotics Compe
 Important Links
 ----
 1. `Installing the FRC Game Tools <https://www.ni.com/en-us/support/downloads/drivers/download.frc-game-tools.html#473762>`_ (LabVIEW Update, FRC Driver Station, FRC roboRIO Imaging Tool and Images)
-1. `WPILib 2023.1.1 Release <https://github.com/wpilibsuite/allwpilib/releases/tag/v2023.1.1>`_
+2. `WPILib 2023.1.1 Release <https://github.com/wpilibsuite/allwpilib/releases/tag/v2023.1.1>`_
 
 
 A little history about our controls approaches.
