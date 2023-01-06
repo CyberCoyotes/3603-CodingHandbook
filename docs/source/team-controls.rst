@@ -24,6 +24,14 @@ Controls Team
     
 If you are new to programming you might want to learn more about command based first.
 
+A good place to start for new and veteran Controls Team is `FIRST Robotics Competition Control System <https://docs.wpilib.org/en/stable/index.html0>`_
+
+Important Links
+----
+1. `Installing the FRC Game Tools <https://www.ni.com/en-us/support/downloads/drivers/download.frc-game-tools.html#473762>`_ (LabVIEW Update, FRC Driver Station, FRC roboRIO Imaging Tool and Images)
+1. `WPILib 2023.1.1 Release <https://github.com/wpilibsuite/allwpilib/releases/tag/v2023.1.1>`_
+
+
 A little history about our controls approaches.
 
 2019 and Prior
