@@ -2,7 +2,7 @@
 Using Photonvision on a Limelight
 ====
 
-Download the rpiboot_setup to see the Limeight in Windows Explorer. It's needed before Balena Etcher can flash the limelight.
+Download the `Limelight USB Driver <https://limelightvision.io/pages/downloads>`_ to see the Limeight in Windows Explorer. It's needed before Balena Etcher can flash the limelight.
 
 `Installing PhotonLib <https://docs.photonvision.org/en/latest/docs/programming/photonlib/adding-vendordep.html>`_ in VS Code.
 
