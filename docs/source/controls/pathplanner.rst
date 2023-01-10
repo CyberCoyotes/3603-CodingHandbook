@@ -1,6 +1,6 @@
 PathPlanner
 ====
-We were unable to use PathPlanner with a SDS code-base during the 2022 season. We have had pre-season succession using Bear drive.
+We were unable to use PathPlanner with a SDS code-base during the 2022 season. We have had pre-season success using Bear drive.
 
 Resources
 ----
