@@ -13,9 +13,11 @@ Updates:Programming Software
 [ ] Photonvision
 
 [ ] Limelight
+
     [ ] USB Drivers rpiboot_setup
 
 Updates: Robot
 ----
 [ ] Update firmware of CTRE devices
-[ ]Reimage the Rio2 with Balena Etcher
+
+[ ] Reimage the Rio2 with Balena Etcher
