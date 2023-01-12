@@ -2,16 +2,18 @@
 Vision Approaches
 ====
 
-Limelight 2
+Limelight
 ----
 * Limelight `Docs <https://docs.limelightvision.io/en/latest/)`_.
 * Limelight `<https://www.chiefdelphi.com/t/limelight-2022-0-3-update/400306>`_ Chief Delphi
 * `Basic Vision in FRC Programming - YouTube <https://youtu.be/hk8yAgDogPE>`_ Broward Botcats
 * `Limelight 2022.0.3 Update <https://www.chiefdelphi.com/t/limelight-2022-0-3-update/400306)`_ Chief Delphi
+* `Limelight 
 
 Limelight Reflective Tape
---
+----
 **Part 1. Thresholding**
+
 * Start with Hue
 * Saturation
 * Value
@@ -20,6 +22,7 @@ Limelight Reflective Tape
 * Area %
 
 Limelight AprilTags
+----
 * `Tracking AprilTags <https://docs.limelightvision.io/en/latest/apriltags_in_2d.html>`_ with Limelight hardware and software
 
 PhotonVision
