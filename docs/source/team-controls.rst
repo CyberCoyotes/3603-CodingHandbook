@@ -13,8 +13,6 @@ Controls Team
     controls/motion-profiling
 
     controls/sub-auton
-
-    controls/auton/auton-pathplanner
     
     controls/sub-vision
 
