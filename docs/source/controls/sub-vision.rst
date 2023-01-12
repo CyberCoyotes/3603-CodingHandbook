@@ -1,6 +1,20 @@
 ====
-Vision Approaches
+Vision
 ====
+.. toctree::
+    :maxdepth: 1
+    :caption: 
+    :hidden:
+
+    vision/vision-limelight
+
+    vision/vision-photonvision-on-a-limelight
+
+
+    
+.. contents::
+    :depth:
+    :hidden:
 
 Limelight
 ----
