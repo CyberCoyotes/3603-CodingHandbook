@@ -12,7 +12,7 @@ Vision
 
 Limelight
 ----
-**general description of limelight here**
+"Limelight is an easy-to-use smart camera for FRC."
 
 Move these to limelight sub page
 
