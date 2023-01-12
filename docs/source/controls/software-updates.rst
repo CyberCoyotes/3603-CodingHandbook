@@ -21,3 +21,5 @@ Updates: Robot
 [ ] Update firmware of CTRE devices
 
 [ ] Reimage the Rio2 with Balena Etcher
+
+**`2023 Reference Doc <https://docs.google.com/document/d/15bQ_309_YcYWBAoT3rnXGH4bxwxVfrExVa2hlobWuZU/edit?usp=sharing>`_.**
