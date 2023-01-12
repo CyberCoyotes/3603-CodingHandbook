@@ -15,10 +15,12 @@ Limelight Reflective Tape
 * Start with Hue
 * Saturation
 * Value
+
 **Part 2. Contour Filtering**
 * Area %
 
 Limelight AprilTags
+* `Tracking AprilTags <https://docs.limelightvision.io/en/latest/apriltags_in_2d.html>`_ with Limelight hardware and software
 
 PhotonVision
 ----
