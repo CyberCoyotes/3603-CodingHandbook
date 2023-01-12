@@ -2,7 +2,7 @@
 Controls Team
 ====
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 1
     :caption: Learn about Controls
     :hidden:
 
@@ -15,6 +15,8 @@ Controls Team
     controls/pathplanner
     
     controls/vision-systems
+
+    vision-limelight
 
     controls/vision-photonvision-on-a-limelight
 
