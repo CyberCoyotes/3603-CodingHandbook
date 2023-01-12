@@ -16,7 +16,7 @@ Controls Team
     
     controls/vision-systems
 
-    vision-limelight
+    controls/vision-limelight
 
     controls/vision-photonvision-on-a-limelight
 
