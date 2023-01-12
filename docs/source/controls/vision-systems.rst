@@ -9,13 +9,6 @@ Limelight
 * Limelight `Post <https://www.chiefdelphi.com/t/limelight-2022-0-3-update/400306>`_ Chief Delphi
 * `Basic Vision in FRC Programming - YouTube <https://youtu.be/hk8yAgDogPE>`_ Broward Botcats
 
-Limelight Reflective Tape
-----
-
-Limelight AprilTags
-----
-* `Tracking AprilTags <https://docs.limelightvision.io/en/latest/apriltags_in_2d.html>`_ with Limelight hardware and software **RELEASED Jan 10, 2023** 
-
 PhotonVision
 ----
 * PhotonVision - Docs (https://docs.photonvision.org/en/latest/docs/getting-started/index.html).
