@@ -9,4 +9,4 @@ Limelight
 AprilTags
 ----
 #. `Tracking AprilTags with Limelight <https://docs.limelightvision.io/en/latest/apriltags_in_2d.html>`_ hardware and software **RELEASED Jan 10, 2023**
-#. `AprilTag Introduction - WPILib<https://docs.wpilib.org/en/stable/docs/software/vision-processing/apriltag/index.html>`_.
+#. `AprilTag Introduction - WPILib <https://docs.wpilib.org/en/stable/docs/software/vision-processing/apriltag/index.html>`_.
