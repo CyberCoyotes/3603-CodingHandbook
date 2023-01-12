@@ -5,7 +5,7 @@ Vision Approaches
 Limelight
 ----
 
-* Limelight `Docs <https://docs.limelightvision.io/en/latest/)`_.
+* Limelight `Docs <https://docs.limelightvision.io/en/latest/>`_.
 * Limelight `Post <https://www.chiefdelphi.com/t/limelight-2022-0-3-update/400306>`_ Chief Delphi
 * `Basic Vision in FRC Programming - YouTube <https://youtu.be/hk8yAgDogPE>`_ Broward Botcats
 * `Limelight 2022.0.3 Update <https://www.chiefdelphi.com/t/limelight-2022-0-3-update/400306)`_ Chief Delphi
