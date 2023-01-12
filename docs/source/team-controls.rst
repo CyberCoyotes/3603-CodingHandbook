@@ -12,13 +12,11 @@ Controls Team
 
     controls/motion-profiling
 
-    controls/pathplanner
+    controls/sub-auton
+
+    controls/auton/auton-pathplanner
     
-    controls/vision-systems
-
-    controls/vision-limelight
-
-    controls/vision-photonvision-on-a-limelight
+    controls/sub-vision
 
     controls/code-examples
 
