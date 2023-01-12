@@ -6,10 +6,9 @@ Vision
     :caption: 
     :hidden:
 
-    vision/vision-limelight
+    controls/vision/vision-limelight
 
-    vision/vision-photonvision-on-a-limelight
-
+    controls/vision/vision-photonvision-on-a-limelight
 
     
 .. contents::
