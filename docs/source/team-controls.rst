@@ -2,7 +2,7 @@
 Controls Team
 ====
 .. toctree::
-    :maxdepth: 1
+    :maxdepth: 2
     :caption: Learn about Controls
     :hidden:
 
