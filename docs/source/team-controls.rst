@@ -17,15 +17,10 @@ Controls Team
     controls/sub-vision
 
     controls/code-examples
-
-    controls/style-guides
     
     controls/software-updates
     
-.. contents::
-    :depth:
-    :hidden:
-    
+
 If you are new to programming you might want to learn more about command based first.
 
 A good place to start for new and veteran Controls Team is `FIRST Robotics Competition Control System <https://docs.wpilib.org/en/stable/index.html0>`_

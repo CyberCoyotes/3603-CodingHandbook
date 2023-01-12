@@ -2,9 +2,11 @@
 Vision
 ====
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 3
     :caption: Vision
     :hidden:
+
+    controls/vision/vision-limelight
 
     controls/vision/vision-limelight
 

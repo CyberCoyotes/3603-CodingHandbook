@@ -1,9 +1,8 @@
 ====
 Command Based Programming
 ====
-
 There are two approaches to making an FRC robot: **Imperative**, and **Command-Based**, of which we use the latter.
-<br/>
+
 
 Imperative
 ----
