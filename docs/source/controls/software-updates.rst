@@ -11,6 +11,7 @@ Programming Software
 #. `GitHub Desktop` <>.
 #. `CTRE <https://store.ctr-electronics.com/software/>`_ | `Phoenix Tuner <https://github.com/CrossTheRoadElec/Phoenix-Releases/releases/download/v5.30.2.2/CTRE_Phoenix_Framework_v5.30.2.2.exe>`_.
 #. Official Limelight `Docs <https://docs.limelightvision.io/en/latest/>`_ | `Downloads <https://limelightvision.io/pages/downloads>`_.
+#. `PathPlanner <https://github.com/mjansen4857/pathplanner/releases`_.
 
 Vendor Libraries
 ----
