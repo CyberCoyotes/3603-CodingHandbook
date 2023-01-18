@@ -17,8 +17,7 @@ FRC teams to follow
 The following includes some teams that have been very helpful to our learing.
 
 * Citrus Circuits `Website <https://www.citruscircuits.org/>`_ | `2022 CAD and Code <https://www.citruscircuits.org/2022-cad-and-code-release.html>`_.
-* Enginerds - Team 2337 `Github <https://github.com/Team2337/`_ | `2021 Skills Bot <https://github.com/Team2337/2021-Skills-Bot/tree/main/src/main/java/frc/robot>`_. 
-A lot of helping examples of command based Commands and Subsystems, button assignments, etc from a successful FRC team
+* Enginerds - Team 2337 `Github <https://github.com/Team2337/>`_ | `2021 Skills Bot <https://github.com/Team2337/2021-Skills-Bot/tree/main/src/main/java/frc/robot>`_. 
 * Raptors - Team 1711 `Github <https://github.com/frc1711>`_.
 * NCGears - Team 1918 `Github <https://github.com/ncgears>`_.
 * Jack in the Bot - Team 2910 `Github <https://github.com/FRCTeam2910>`_
