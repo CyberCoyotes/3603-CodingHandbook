@@ -6,6 +6,7 @@ Using a Blinkin
 ----
 #. `Blinkin LED Driver page <https://www.revrobotics.com/rev-11-1105/>`_ and including the `PDF manual <https://www.revrobotics.com/content/docs/REV-11-1105-UM.pdf>`_
 #. `REV Robotics Blinkin Overview - YouTube <https://youtu.be/wMdkM2rr1a4>`_
+#. `Sonic Squirrels <https://github.com/FRC-Sonic-Squirrels/MinibotCode/blob/5b58f10ef78b79384b12a69ffbe3fcba4775bba1/src/main/java/frc/robot/subsystems/blinkin.java>`_
 #. Chief Delphi post <https://www.chiefdelphi.com/t/addressableleds-and-rev-robotics-blinkin/375753>
 #. Chief Delphi post <https://www.chiefdelphi.com/t/blinkin-led-programming/339003>
 #. Chief Delphi post <https://www.chiefdelphi.com/t/rev-blinkin-led/396966>
