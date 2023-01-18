@@ -9,7 +9,7 @@ It should be noted that we do not have a mentor with extensive programming knowl
 
 Command Based Team Examples
 ----
-#. `Bearswerve <https://github.com/6391-Ursuline-Bearbotics/BearSwerve>`_` drive code 
+#. `Bearswerve <https://github.com/6391-Ursuline-Bearbotics/BearSwerve>`_ drive code 
 #. `Swerve Drive Specialties <https://github.com/SwerveDriveSpecialties>`_ drive code
 #. `Triple Helix <https://github.com/TripleHelixProgramming/offseason-2022>`_ drive code
 
