@@ -6,7 +6,9 @@ Controls Team
     :caption: Learn about Controls
     :hidden:
 
-    controls/controls-history
+    controls/history-controls
+    
+    controls/software-updates
     
     controls/command-and-declarative-programming
 
@@ -19,9 +21,7 @@ Controls Team
     controls/sub-vision
 
     controls/code-examples
-    
-    controls/software-updates
-    
+        
     controls/sensors-limit-switches
     
     controls/leds
