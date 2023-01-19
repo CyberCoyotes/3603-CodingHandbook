@@ -1,6 +1,7 @@
 ====
 Limelight
 ====
+"Limelight is an easy-to-use smart camera for FRC."
 
 * Official Limelight `Docs <https://docs.limelightvision.io/en/latest/>`_ | `Downloads <https://limelightvision.io/pages/downloads>`_.
 * Limelight `Post <https://www.chiefdelphi.com/t/limelight-2022-0-3-update/400306>`_ Chief Delphi
