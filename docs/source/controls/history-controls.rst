@@ -1,5 +1,5 @@
 ====
-Team History of Controls
+Team History: Controls
 ====
 
 A little history about our controls approaches.
