@@ -5,26 +5,14 @@ Vision
     :maxdepth: 3
     :caption: Vision
 
-    controls/vision/limelight
+    vision/limelight
 
-    controls/vision/photonvision-on-a-limelight
+    vision/photonvision-on-a-limelight
+    
+    vision/photonvision
+    
 
-Limelight Introduction
-----
-"Limelight is an easy-to-use smart camera for FRC."
 
-A couple of quick resources. There is much more on the Limelight page.
-
-* Official Limelight `Docs <https://docs.limelightvision.io/en/latest/>`_ | `Downloads <https://limelightvision.io/pages/downloads>`_.
-* Limelight `Post <https://www.chiefdelphi.com/t/limelight-2022-0-3-update/400306>`_ Chief Delphi
-* `Basic Vision in FRC Programming - YouTube <https://youtu.be/hk8yAgDogPE>`_ Broward Botcats
-
-PhotonVision
-----
-* PhotonVision - Docs (https://docs.photonvision.org/en/latest/docs/getting-started/index.html).
-* PhotonVision 2021 - Chief Delphi (https://www.chiefdelphi.com/t/photonvision-2021-official-release/390168).
-* Lime Light & The New Gloworm (https://youtu.be/P0SwBrbCVwU) Jumpstart Robotics - YouTube
-* Glowormvision (https://gloworm.vision/)
 
 Pixy 2
 ----
