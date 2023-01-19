@@ -4,19 +4,16 @@ Vision
 .. toctree::
     :maxdepth: 3
     :caption: Vision
-    :hidden:
 
-    controls/vision/vision-limelight
+    controls/vision/limelight
 
-    controls/vision/vision-limelight
+    controls/vision/photonvision-on-a-limelight
 
-    controls/vision/vision-photonvision-on-a-limelight
-
-Limelight
+Limelight Introduction
 ----
 "Limelight is an easy-to-use smart camera for FRC."
 
-Move these to limelight sub page
+A couple of quick resources. There is much more on the Limelight page.
 
 * Official Limelight `Docs <https://docs.limelightvision.io/en/latest/>`_ | `Downloads <https://limelightvision.io/pages/downloads>`_.
 * Limelight `Post <https://www.chiefdelphi.com/t/limelight-2022-0-3-update/400306>`_ Chief Delphi
