@@ -24,6 +24,8 @@ Controls Team
     
     controls/sensors-limit-switches
     
+    controls/leds
+    
 If you are new to programming, we recommend the free Java Course at Codecademy for learning fundamentals. If you know some Java and are new to FRC you might want to learn more about command based first.
 
 A good place to start for new and veteran Controls Team is `FIRST Robotics Competition Control System <https://docs.wpilib.org/en/stable/index.html0>`_
