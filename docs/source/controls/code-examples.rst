@@ -27,3 +27,9 @@ Tutorials
 #. Sen Sun `FRC 0 to Autonomous <https://www.youtube.com/channel/UCmJAoN-yI6AJDv7JJ3372yg>`_. Helpful tutorials with video and code examples
 #. WPI Lib `Creating and Following a Trajectory <https://docs.wpilib.org/en/stable/docs/software/pathplanning/trajectory-tutorial/creating-following-trajectory.html>`_.
 #. Team 2910 `Path Viewer <https://github.com/FRCTeam2910/PathViewer>`_.
+
+Follow up
+----
+#. Lamda Corps `2022 Rapid React <https://github.com/Lambda-Corps/2022_RapidReact>`_ 
+#. `FRC 6995 NOMAD <https://github.com/frc6995>`_
+#. `Cyber Dragons <https://github.com/SOTACyberdragons/FRC-Robot-2020/blob/master/src/main/java/frc/robot/oi/limelightvision/limelight/ControlMode.java>`_
