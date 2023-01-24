@@ -21,6 +21,7 @@ The following includes some teams that have been very helpful to our learing.
 * Raptors - Team 1711 `Github <https://github.com/frc1711>`_.
 * NCGears - Team 1918 `Github <https://github.com/ncgears>`_.
 * Jack in the Bot - Team 2910 `Github <https://github.com/FRCTeam2910>`_
+* Team Fusion - Team 364 `<https://github.com/team364>`_
 
 Tutorials
 ----
