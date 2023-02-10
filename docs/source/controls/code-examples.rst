@@ -6,6 +6,10 @@ It should be noted that we do not have a mentor with extensive programming knowl
 
 * Cyber Coyotes `Code Repositories <https://github.com/CyberCoyotes>`_ | `2021 Rapid React code <https://github.com/CyberCoyotes/2022-RapidReact>`_.
 
+`Traditional Hatchbot <https://github.com/CyberCoyotes/2023-Example-TraditionalHatchbot`_.
+`GearsBot <https://github.com/CyberCoyotes/2023-Example-GearsBot>`_.
+`Command Robot <https://github.com/CyberCoyotes/2023-Example-CommandRobot`_.
+
 Command Based Team Examples
 ----
 #. `Falcon Swerve <https://github.com/team364>`_.
