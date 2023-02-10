@@ -4,15 +4,16 @@ Java Code Examples
 
 Timed Robot EXAMPLES from VS Code
 ----
-#. [Tank  Drive (Timed Robot)](https://github.com/CyberCoyotes/Example-TankDrive)
-#. [Arcade Drive](https://github.com/CyberCoyotes/Example-ArcadeDrive)
-#. [Pneumatics](https://github.com/CyberCoyotes/Example-ArcadeDrive)
+#. `Tank  Drive (Timed Robot) <https://github.com/CyberCoyotes/Example-TankDrive>`_
+#. `Arcade Drive (Timed Robot) <https://github.com/CyberCoyotes/Example-ArcadeDrive>`_
+#. `Pneumatics (Timed Robot) <https://github.com/CyberCoyotes/Example-ArcadeDrive>`_`
 
 
 Command Based EXAMPLES from VS Code
 ----
-#. `Traditional Hatchbot <https://github.com/CyberCoyotes/2023-Example-TraditionalHatchbot`_. Although the "Traditional Hatchbot" uses pneumatics, in my opinion it is the most straight forward "outline" and the subsystem and commands can be adapted to motors by looking at the drive subsystem and drive commands.
-#. `GearsBot <https://github.com/CyberCoyotes/2023-Example-GearsBot>`_.
+#. `Traditional Hatchbot <https://github.com/CyberCoyotes/2023-Example-TraditionalHatchbot>`_. 
+Although the "Traditional Hatchbot" uses pneumatics, in my opinion it is the most straight forward "outline" and the subsystem and commands can be adapted to motors by looking at the drive subsystem and drive commands.
+#. `Gears Bot <https://github.com/CyberCoyotes/2023-Example-GearsBot>`_.
 #. `Command Robot <https://github.com/CyberCoyotes/2023-Example-CommandRobot`_.
 
 Command Based Examples from Teams
@@ -32,7 +33,7 @@ The following includes some teams that have been very helpful to our learning.
 * Raptors - Team 1711 `Github <https://github.com/frc1711>`_.
 * NCGears - Team 1918 `Github <https://github.com/ncgears>`_.
 * Jack in the Bot - Team 2910 `Github <https://github.com/FRCTeam2910>`_
-* Team Fusion - Team 364 `<https://github.com/team364>`_
+* Team Fusion - Team 364 `Github <https://github.com/team364>`_
 
 Tutorials
 ----
