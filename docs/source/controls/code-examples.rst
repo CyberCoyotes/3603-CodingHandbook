@@ -6,7 +6,7 @@ Timed Robot EXAMPLES from VS Code
 ----
 #. `Tank  Drive (Timed Robot) <https://github.com/CyberCoyotes/Example-TankDrive>`_
 #. `Arcade Drive (Timed Robot) <https://github.com/CyberCoyotes/Example-ArcadeDrive>`_
-#. `Pneumatics (Timed Robot) <https://github.com/CyberCoyotes/Example-ArcadeDrive>`_`
+#. `Pneumatics (Timed Robot) <https://github.com/CyberCoyotes/Example-Pneumatics>`_
 
 
 Command Based EXAMPLES from VS Code
