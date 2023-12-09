@@ -1,0 +1,8 @@
+# Programming Resources
+Future sections and topics will be added and adjusted as needed
+
+## Learn Java
+- [Codecademy](www.codecademy.org) has free, basic courses. Students can get 'pro' accounts for free if they link with a school account and clever.
+
+## General Robotics
+- [Michigan Robotics - Free online courses](https://robotics.umich.edu/academics/courses/online-courses/) has a number of courses
