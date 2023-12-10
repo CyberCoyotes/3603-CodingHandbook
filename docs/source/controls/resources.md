@@ -6,3 +6,6 @@ Future sections and topics will be added and adjusted as needed
 
 ## General Robotics
 - [Michigan Robotics - Free online courses](https://robotics.umich.edu/academics/courses/online-courses/) has a number of courses
+
+## Phoenix Tuner
+- [Phoenix Tuner X basic walk through video(https://youtu.be/tyMGkEOPRbo) - CyberKnights
