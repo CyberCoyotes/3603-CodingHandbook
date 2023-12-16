@@ -33,7 +33,8 @@ Randomness
 Control Requests
 -----------------
 v5
-
+.. code-block:: Java
+    :linenos:
 // robot init, set voltage compensation to 12 V
 m_motor.configVoltageComSaturation(12);
 m_motor.enableVoltageCompensation(true);
@@ -41,12 +42,15 @@ m_motor.enableVoltageCompensation(true);
 // main robot code, command 12 V output
 m_motor.set(ControlMode.PercentOutput, 1.0);
 
+.. code-block:: Java
+    :linenos:
 v6
 // class member variable
 final VoltageOut m_request = new VoltageOut(0);
 
 // main robot code, command 12 V output
 m_motor.setControl(m_request.withOutput(12.0));
+
 
 .. list-table:: Control Requests
     :widths: 50 50
