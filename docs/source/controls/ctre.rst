@@ -25,9 +25,11 @@ Randomness
 -----------
 
 - `Package com.ctre.phoenix6.configs <https://api.ctr-electronics.com/phoenix6/release/java/com/ctre/phoenix6/configs/package-summary.html>`_.
-- `API Migration <https://v6.docs.ctr-electronics.com/en/latest/docs/migration/migration-guide/index.html>`_.
+- `API Migration <https://v6.docs.ctr-electronics.com/en/latest/docs/migration/migration-guide/index.html>`_. "Cheat Sheet"
+/*
     - `Control Requests <https://v6.docs.ctr-electronics.com/en/latest/docs/migration/migration-guide/control-requests-guide.html>`_. Brief examples below
     - `Closed-Loop Control including Motion Magic <https://v6.docs.ctr-electronics.com/en/latest/docs/migration/migration-guide/closed-loop-guide.html>`_.
+*/
 
 --------------------------     
 Control Requests Examples
