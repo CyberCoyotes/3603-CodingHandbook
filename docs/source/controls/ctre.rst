@@ -4,9 +4,9 @@ CTRE
 In the past our team has used a lot of CTRE products (TalonSRX controllers, TalonFX with Falcons, Pigeon2). 
 There are some big changes going from 2023 to 2024 with the release of the Kraken and Phoenix 5 to Phoenix 6 (Pro Licenses) frameworks.
 
-==
+--------------
 2023 December
-==
+--------------
 Mostly using this space to document my noticings and notes
 
 ------
@@ -39,6 +39,7 @@ Randomness
 .. list-table:: Control Requests
     :widths: 50 50
     :header-rows: 1
+
     *   - Previous
         - Phoenix 6
     *   - Position
