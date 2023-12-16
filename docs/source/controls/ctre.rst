@@ -29,21 +29,41 @@ Randomness
 - `Control Requests <https://v6.docs.ctr-electronics.com/en/latest/docs/migration/migration-guide/control-requests-guide.html>`_.
 - `Closed-Loop Control including Motion Magic <https://v6.docs.ctr-electronics.com/en/latest/docs/migration/migration-guide/closed-loop-guide.html>`_.
 
-     
-     * Velocity                             |   VelocityDutyCycle
-     * MotionMagic                          |   MotionMagicDutyCycle
-     * Closed-loop + Voltage Compensation   |   {ClosedLoop}Voltage
-     *                                      |   {ClosedLoop}TorqueCurrentFOC (requires Pro)
-     */
+-----------------     
+Control Requests
+-----------------
+v5
+
+// robot init, set voltage compensation to 12 V
+m_motor.configVoltageComSaturation(12);
+m_motor.enableVoltageCompensation(true);
+
+// main robot code, command 12 V output
+m_motor.set(ControlMode.PercentOutput, 1.0);
+
+v6
+// class member variable
+final VoltageOut m_request = new VoltageOut(0);
+
+// main robot code, command 12 V output
+m_motor.setControl(m_request.withOutput(12.0));
 
 .. list-table:: Control Requests
     :widths: 50 50
     :header-rows: 1
 
-    *   - Previous
-        - Phoenix 6
+    *   - PREVIOUSLY
+        - PHOENIX 6
     *   - Position
         - PositionDutyCycle
+    *   - Velocity
+        - VelocityDutyCycle
+    *   - MotionMagic
+        - MotionMagicDutyCycle
+    *   - Closed-loop + Voltage Compensation
+        - {ClosedLoop}Voltage
+    *   -
+        - {ClosedLoop}TorqueCurrentFOC (requires Pro)
 
 
 ~ This is the way.
