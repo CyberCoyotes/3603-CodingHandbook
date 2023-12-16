@@ -18,7 +18,7 @@ Assume all links are to official documentation unless otherwise noted
 - `Official Phoenix Pro Documentation <https://v6.docs.ctr-electronics.com/en/2023-pro/index.html>`_
 - `Github Examples of Phoenix 6 <https://github.com/CrossTheRoadElec/Phoenix6-Examples>`_
 
-*See also `links on motion profiling <https://github.com/CyberCoyotes/Handbook/blob/main/docs/source/controls/motion-profiling.rst>`_.*
+*See also* `links on motion profiling <https://github.com/CyberCoyotes/Handbook/blob/main/docs/source/controls/motion-profiling.rst>`_.
 
 -----------
 Randomness
@@ -44,6 +44,6 @@ Randomness
     *   -
         - {ClosedLoop}TorqueCurrentFOC (requires Pro)
 
-*See `API Migration <https://v6.docs.ctr-electronics.com/en/latest/docs/migration/migration-guide/index.html>`_ for more*
+*See also* `API Migration <https://v6.docs.ctr-electronics.com/en/latest/docs/migration/migration-guide/index.html>`_.
 
 ~ This is the way.
