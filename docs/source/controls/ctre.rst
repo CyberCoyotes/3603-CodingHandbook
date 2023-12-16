@@ -26,37 +26,6 @@ Randomness
 
 - `Package com.ctre.phoenix6.configs <https://api.ctr-electronics.com/phoenix6/release/java/com/ctre/phoenix6/configs/package-summary.html>`_.
 - `API Migration <https://v6.docs.ctr-electronics.com/en/latest/docs/migration/migration-guide/index.html>`_. "Cheat Sheet"
-/*
-    - `Control Requests <https://v6.docs.ctr-electronics.com/en/latest/docs/migration/migration-guide/control-requests-guide.html>`_. Brief examples below
-    - `Closed-Loop Control including Motion Magic <https://v6.docs.ctr-electronics.com/en/latest/docs/migration/migration-guide/closed-loop-guide.html>`_.
-*/
-
---------------------------     
-Control Requests Examples
---------------------------
-
-v5
-
-.. code-block:: java
-
-    // robot init, set voltage compensation to 12 V
-    m_motor.configVoltageComSaturation(12);
-    m_motor.enableVoltageCompensation(true);
-
-    // main robot code, command 12 V output
-    m_motor.set(ControlMode.PercentOutput, 1.0);
-
-
-v6
-
-.. code-block:: java
-
-    // class member variable
-    final VoltageOut m_request = new VoltageOut(0);
-
-    // main robot code, command 12 V output
-    m_motor.setControl(m_request.withOutput(12.0));
-
 
 .. list-table:: Control Request Changes
     :widths: 50 50
@@ -75,5 +44,6 @@ v6
     *   -
         - {ClosedLoop}TorqueCurrentFOC (requires Pro)
 
+*See API Migration <https://v6.docs.ctr-electronics.com/en/latest/docs/migration/migration-guide/index.html>`_ for more*
 
 ~ This is the way.
