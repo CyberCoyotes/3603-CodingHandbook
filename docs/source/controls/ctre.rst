@@ -29,6 +29,13 @@ Randomness
 - `Control Requests <https://v6.docs.ctr-electronics.com/en/latest/docs/migration/migration-guide/control-requests-guide.html>`_.
 - `Closed-Loop Control including Motion Magic <https://v6.docs.ctr-electronics.com/en/latest/docs/migration/migration-guide/closed-loop-guide.html>`_.
 
+     
+     * Velocity                             |   VelocityDutyCycle
+     * MotionMagic                          |   MotionMagicDutyCycle
+     * Closed-loop + Voltage Compensation   |   {ClosedLoop}Voltage
+     *                                      |   {ClosedLoop}TorqueCurrentFOC (requires Pro)
+     */
+
 .. list-table:: Control Requests
     :widths: 50 50
     :header-rows: 1
@@ -37,11 +44,5 @@ Randomness
     *   - Position
         - PositionDutyCycle
 
-        
-     * Velocity                             |   VelocityDutyCycle
-     * MotionMagic                          |   MotionMagicDutyCycle
-     * Closed-loop + Voltage Compensation   |   {ClosedLoop}Voltage
-     *                                      |   {ClosedLoop}TorqueCurrentFOC (requires Pro)
-     */
 
 ~ This is the way.
