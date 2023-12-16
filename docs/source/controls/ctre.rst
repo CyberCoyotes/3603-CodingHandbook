@@ -35,7 +35,7 @@ Control Requests
 
 v5
 
-.. code-block:: Java
+.. code-block::Java
 // robot init, set voltage compensation to 12 V
 m_motor.configVoltageComSaturation(12);
 m_motor.enableVoltageCompensation(true);
@@ -46,7 +46,7 @@ m_motor.set(ControlMode.PercentOutput, 1.0);
 
 v6
 
-.. code-block:: Java
+.. code-block::Java
 // class member variable
 final VoltageOut m_request = new VoltageOut(0);
 
