@@ -26,6 +26,7 @@ Randomness
 
 - `Package com.ctre.phoenix6.configs <https://api.ctr-electronics.com/phoenix6/release/java/com/ctre/phoenix6/configs/package-summary.html>`_.
 - `API Migration <https://v6.docs.ctr-electronics.com/en/latest/docs/migration/migration-guide/index.html>`_. "Cheat Sheet"
+- `CTRE Example of SwerveWithPathPlanner <https://github.com/CrossTheRoadElec/Phoenix6-Examples/tree/main/java/SwerveWithPathPlanner>`_. Provides a basic example with the Phoenix6 Swerve API integrated with PathPlanner's path following for autonomous movement. There is also a `limelight reference <https://github.com/CrossTheRoadElec/Phoenix6-Examples/blob/main/java/SwerveWithPathPlanner/src/main/java/frc/robot/LimelightHelpers.java>`_.
 
 .. list-table:: Control Request Changes
     :widths: 50 50
