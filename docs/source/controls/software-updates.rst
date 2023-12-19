@@ -8,12 +8,10 @@ Primary Downloads
 ---------------------
 *The NI Game Tools and WPILIB Suite must be updated every year after the game release. Most other programs will update on their own when they release updates.*
 
-- [ ] Install `NI Game Tools <https://www.ni.com/en-us/support/downloads/drivers/download.frc-game-tools.html#473762>`_ .      
-
-    - [ ] Update the RIO Image (also needs Balena Etcher if using RIO2)
+- [ ] Install `NI Game Tools <https://www.ni.com/en-us/support/downloads/drivers/download.frc-game-tools.html#473762>`_ .
+    - [ ] Update the RIO Image (also needs `Balena Etcher <https://etcher.balena.io/>`_ if using RIO2 and an external SD card reader)
     - [ ] Radio (radio utility)
     - [ ] Driver's Station
-
 - [ ] Install `WPI LIB Suite <https://github.com/wpilibsuite/allwpilib/releases/tag/v2023.1.1>`_. Including VS Code download for offline install option.  
 - [ ] Install `REV Hardware Client <https://docs.revrobotics.com/rev-hardware-client/>`_. Needed to update REV firmware for motors (NEOs), controllers (Spark MAX), and Power Distribution Hub.
 - [ ] Install `Tuner X <https://apps.microsoft.com/detail/9NVV4PWDW27Z?hl=en-us&gl=US>`_. Needed to update CTRE firmware for motors (Falcon, Kraken), controllers (Talon SRX), gyro (Pigeon), and the original Power Distribution Panel. See also `CTRE <https://store.ctr-electronics.com/software/>`_ website 
