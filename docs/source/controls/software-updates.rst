@@ -30,7 +30,7 @@ Other Downloads
 ================
 Updating Code
 ================
-*After downloading software and updating firmares, you need to import last year's code or start a new project. Part of this process will likely involved updating vendor libraries. Those have been listed below.*
+*After downloading software and updating firmares, you need to import last year's code or start a new project. Part of this process will likely involved updating vendor libraries. The ones we use use have been listed below.*
 
 ------------------
 Vendor Libraries
