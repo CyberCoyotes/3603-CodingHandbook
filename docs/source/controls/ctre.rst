@@ -15,7 +15,7 @@ Links
 Assume all links are to official documentation unless otherwise noted
 
 - Tuner X can be downloaded from the Microsoft store
-- `Official Phoenix Pro Documentation <https://v6.docs.ctr-electronics.com/en/2023-pro/index.html>`_
+- `LATEST Phoenix 6 Documentation <https://v6.docs.ctr-electronics.com/en/latest/>`_
 - `Github Examples of Phoenix 6 <https://github.com/CrossTheRoadElec/Phoenix6-Examples>`_
 
 *See also* `links on motion profiling <https://github.com/CyberCoyotes/Handbook/blob/main/docs/source/controls/motion-profiling.rst>`_.
