@@ -6,8 +6,8 @@ project = 'FRC 3603'
 copyright = '3603'
 author = 'Wile E. Coyote'
 
-release = '0.2'
-version = '0.2.0'
+release = '2023.
+version = '12.0'
 
 # -- General configuration
 
