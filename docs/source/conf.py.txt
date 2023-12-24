@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'FRC 3603'
+copyright = '3603'
+author = 'Wile E. Coyote'
 
-release = '0.1'
-version = '0.1.0'
+release = '2023.
+version = '12.0'
 
 # -- General configuration
 
