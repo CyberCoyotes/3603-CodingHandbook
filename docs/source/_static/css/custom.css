@@ -13,7 +13,7 @@ body {
 }
 
 
-	/*****************************
+	/***********************
 	// *           HEADERS
 	// *****************************/
 	h1,h2,h3,h4 {
@@ -23,42 +23,4 @@ body {
 
 	h1 {
 		color       : #58180D;
-		margin-bottom       : 0.18cm;
-		column-span         : all;
-		font-size           : 0.89cm;
-		line-height         : 1em;
-		-webkit-column-span : all;
-		-moz-column-span    : all;
 	}
-	h2 {
-		margin-top    : 0px;
-		margin-bottom : 0.05cm;
-		font-size   : 0.75cm;
-		line-height : 0.988em;
-	}
-	h3 {
-		margin-top    : -0.1cm; 
-		margin-bottom : 0.1cm;
-		font-size     : 0.575cm;;
-		line-height   : 0.995em; 
-	}
-	* + h3 {
-		margin-top    : 0.155cm;
-	}
-	h4 {
-		margin-top    : -0.02cm; 
-		margin-bottom : 0.02cm;
-		font-size   : 0.458cm;
-		line-height : 0.971em;
-	}
-	* + h4 {
-		margin-top    : 0.235cm;
-	}
-	h5 {
-		margin-top    : -0.02cm; 
-		margin-bottom : 0.02cm;
-		font-family : 'ScalySansSmallCapsRemake';
-		font-size   : 0.423cm;
-		line-height : 0.951em;
-	}
-	
