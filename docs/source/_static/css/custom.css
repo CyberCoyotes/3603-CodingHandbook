@@ -1,17 +1,14 @@
+p {
+	font-family: 'SolberaImitationRemake';
+}
 
 body.wy-body-for-nav {
     background-image: url("parchmentBackground.jpg");
     background-color: #EEE5CE;
 }
-p {
-	font-family: 'SolberaImitationRemake';
-}
 
-body.wy-nav-content {
-    /* background-color: rgb(150, 141, 138); */
-    /* background-color: rgba(0,0,0,0);*/
-	background: #EEE5CE;
-}
+
+
 
 
 	/***********************
@@ -24,4 +21,24 @@ body.wy-nav-content {
 
 	h1 {
 		color       : #58180D;
+	}
+
+body.wy-side-nav-search {
+		/*
+		display: block;
+		width: 300px;
+		padding: 0.809em;
+		margin-bottom: 0.809em;
+		z-index: 200;
+		
+		text-align: center;
+		*/
+		/* color: #fcfcfc; */
+		background-color: rgba(0,0,0,0);
+	}
+
+body.wy-nav-content {
+		/* background-color: rgb(150, 141, 138); */
+		background-color: rgba(0,0,0,0);
+		/* background: #EEE5CE;*/
 	}
