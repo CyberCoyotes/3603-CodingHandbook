@@ -10,10 +10,10 @@ Team History with Controls
 - **Drivetrain**: MK4i swerve + CTRE Kraken motors
 - **Gyro**: CTRE Pigeon
 - **Programming** 
-    - :ref:`Command based <command-and-declarative-programming>`_ Java adapted from CTRE Generated Swerve drive
-    - Improved use of :ref:`CTRE Control Modes <ctre>`_ such as MotionMagic
-    - Improved use of :doc:`PathPlanner </path-planner>`_.
-    - Improved use of :doc:`Limelight </limelight>`_.
+    - `Command based <command-and-declarative-programming>`Java adapted from CTRE Generated Swerve drive
+    - Improved use of `CTRE`_ control modes such as MotionMagic
+    - Improved use of `PathPlanner <path-planner>`_.
+    - Improved use of `Limelight <limelight>`_.
 
 --------------------
 2023 Season
