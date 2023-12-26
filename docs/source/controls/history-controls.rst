@@ -1,7 +1,6 @@
 ========================
 Team History with Controls
 ========================
-A little history about our controls approaches.
 
 --------------------
 2024 Season Changes
