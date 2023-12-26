@@ -11,7 +11,7 @@ Team History with Controls
 - **Gyro**: CTRE Pigeon
 - **Programming** 
     - Command Based Programming Java adapted from CTRE Generated Swerve drive
-    - Improved use of `CTRE <docs/source/controls/ctre.rst>`_ control modes such as MotionMagic
+    - Improved use of CTRE control modes such as MotionMagic
     - Improved use of Path Planner
     - Improved use of Limelight
 
