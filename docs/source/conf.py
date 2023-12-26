@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'FRC Players Handbook'
+copyright = 'Pre-2024 Season'
+author = 'Wile E. Coyote'
 
-release = '0.1'
-version = '0.1.0'
+release = '0.3'
+version = '2023.12.25'
 
 # -- General configuration
 
