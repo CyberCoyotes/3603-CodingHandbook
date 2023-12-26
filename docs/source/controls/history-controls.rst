@@ -11,11 +11,11 @@ A little history about our controls approaches.
 * **Drivetrain**: MK4i swerve + CTRE Kraken motors
 * **Gyro**: CTRE Pigeon
 * **Programming**: 
-    * `Command based <docs\source\controls\command-and-declarative-programming.rst>`_ Java adapted from CTRE Generated Swerve drive
-    * Improved use of `CTRE Control Modes <docs\source\controls\ctre.rst>`_ such as MotionMagic
-    * Improved use of `PathPlanner <docs\source\controls\path-planner.rst>`_.
-    * Improved use of `Limelight <docs\source\controls\limelight.rst>`_.
- 
+    * :doc:`Command based </command-and-declarative-programming>`_ Java adapted from CTRE Generated Swerve drive
+    * Improved use of :doc:`CTRE Control Modes </ctre>`_ such as MotionMagic
+    * Improved use of :doc:`PathPlanner </path-planner>`_.
+    * Improved use of :doc:`Limelight </limelight>`_.
+ docs\source\controls\history-controls.rst
 --------------------
 2023 Season Changes
 --------------------
