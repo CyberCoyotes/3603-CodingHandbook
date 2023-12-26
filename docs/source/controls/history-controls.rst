@@ -10,10 +10,10 @@ Team History with Controls
 - **Drivetrain**: MK4i swerve + CTRE Kraken motors
 - **Gyro**: CTRE Pigeon
 - **Programming** 
-    - :ref:`Command Based Programming` Java adapted from CTRE Generated Swerve drive
-    - Improved use of :ref:`ctre:CTRE` control modes such as MotionMagic
-    - Improved use of :ref:`Path Planner`.
-    - Improved use of `Limelight <limelight>`_.
+    - Command Based Programming Java adapted from CTRE Generated Swerve drive
+    - Improved use of `CTRE <docs/source/controls/ctre.rst>`_ control modes such as MotionMagic
+    - Improved use of Path Planner
+    - Improved use of Limelight
 
 --------------------
 2023 Season
@@ -21,7 +21,7 @@ Team History with Controls
 - **Drivetrain**: MK4i swerve + CTRE-Vex Falcon500 motors
 - **Gyro**: CTRE Pigeon
 - **Programming**: 
-    - *Command based* Java adapted from `BearSwerve <https://github.com/6391-Ursuline-Bearbotics/BearSwerve>`_.
+    - Command based Java adapted from `BearSwerve <https://github.com/6391-Ursuline-Bearbotics/BearSwerve>`_.
     - Limited use of PathPlanner during autonomous
     - Limelight never made it to the competition bot
 
@@ -30,7 +30,7 @@ Team History with Controls
 --------------------
 - **Drivetrain**: MK3 swerve + CTRE-Vex Falcon500 motors
 - **Programming**:
-    - *Command based* Java adapted from SDS
+    - Command based Java adapted from SDS
     - Limited use of Limelight
     - Basic path planning during autonomous
     - PhotonVision never made it out of beta
