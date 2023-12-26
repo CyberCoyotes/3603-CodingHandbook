@@ -2,9 +2,8 @@
 Build Team
 ============
 
-We use mostly aluminum tubing for framing and arm/elevator mechanisms. Use a combindation of pre-dilled and solid sides.
-We try to keep our bolt usage to 3 sizes, and have switched to using more rivets and plates for connecting tubing together. 
-In 2021 we added a bench top mill, a `Markforged 3D Printer <https://markforged.com/>`_ in 2022, and a second Markforged 3D printer in late 2023.
+We use mostly aluminum tubing for framing and arm/elevator mechanisms. Use a combindation of pre-dilled and solid sides. We try to minimize the number of bolt sizes. For some frabrication processes we use more rivets and plates for connecting parts. 
+In 2021 we added a bench top mill, a `Markforged 3D Printer <https://markforged.com/>`_ in 2022, and a second Markforged 3D printer in late 2023 which have improved built quality and capabilities significantly.
 
 --------------
 Resources
