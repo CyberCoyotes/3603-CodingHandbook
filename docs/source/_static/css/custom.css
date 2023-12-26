@@ -1,11 +1,11 @@
 .wy-body-for-nav {
-    background-image: url("parchmentBackground.jpg");
+    /* background-image: url("parchmentBackground.jpg");*/
     background-color: #EEE5CE;
 }
 
 .wy-nav-content {
     /* background-color: rgb(150, 141, 138); */
-    background-color: rgba(0,0,0,0);
+    /* background-color: rgba(0,0,0,0);*/
 }
 
 
@@ -16,7 +16,9 @@
 		/* font-family : 'MrEavesRemake';*/
 		color       : #58180D;
 	}
+
 	h1 {
+		color       : #58180D;
 		margin-bottom       : 0.18cm;
 		column-span         : all;
 		font-size           : 0.89cm;
