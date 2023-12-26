@@ -1,6 +1,6 @@
 .wy-body-for-nav {
     background-image: url("parchmentBackground.jpg");
-    background-color: #BBAD82;
+    background-color: #EEE5CE;
 }
 
 .wy-nav-content {
@@ -97,7 +97,7 @@
 	// *****************************/
 	h1,h2,h3,h4 {
 		font-family : 'MrEavesRemake';
-		color       : var(--HB_Color_HeaderText);
+		color       : #58180D;
 	}
 	h1 {
 		margin-bottom       : 0.18cm;
