@@ -36,12 +36,12 @@ html_static_path = ['_static']
 
 html_theme_options = {
     'css_files': [
-        'https://new-help-test.readthedocs.io/en/latest/_static/css/custom.css',
+        'https://cyber-coyotes-handbook.readthedocs.io/en/latest/_static/css/custom.css',
     ],
 }
 
 html_css_files = [
-    'https://new-help-test.readthedocs.io/en/latest/_static/css/custom.css',
+    'https://cyber-coyotes-handbook.readthedocs.io/en/latest/_static/css/custom.css',
 ]
 
 # -- Options for EPUB output
