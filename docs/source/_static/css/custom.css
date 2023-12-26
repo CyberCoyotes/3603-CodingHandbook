@@ -15,14 +15,18 @@ h1 {
 }
 
 
+.wy-body-for-nav {
+    background-image: url("parchmentBackground.jpg");
+    background-color: #EEE5CE00;
+}
 
-body.wy-nav-content {
+.wy-nav-content {
 		/* background-color: rgb(150, 141, 138); */
 		background-image: url("parchmentBackground.jpg");
-		background-color: #EEE5CE;
+		background: #EEE5CE00;
 	}
 
-body.wy-side-nav-search {
+.wy-side-nav-search {
 	/*
 	display: block;
 	width: 300px;
@@ -34,10 +38,6 @@ body.wy-side-nav-search {
 	*/
 	/* color: #fcfcfc; */
 	/* background-color: rgba(0,0,0,0);*/
-	background-color: #EEE5CE; 
+	background-color: #EEE5CE00; 
 }
 
-body.wy-body-for-nav {
-    /* background-image: url("parchmentBackground.jpg");*/
-    background-color: #EEE5CE;
-}
