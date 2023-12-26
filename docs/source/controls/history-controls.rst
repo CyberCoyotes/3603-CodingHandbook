@@ -3,20 +3,20 @@ Team History with Controls
 ========================
 
 --------------------
-2024 Season Changes
+2024 Season
 --------------------
 *Tentative*
 
-* **Drivetrain**: MK4i swerve + CTRE Kraken motors
-* **Gyro**: CTRE Pigeon
-* **Programming**: 
-    * :doc:`Command based </command-and-declarative-programming>`_ Java adapted from CTRE Generated Swerve drive
-    * Improved use of :doc:`CTRE Control Modes </ctre>`_ such as MotionMagic
-    * Improved use of :doc:`PathPlanner </path-planner>`_.
-    * Improved use of :doc:`Limelight </limelight>`_.
- docs\source\controls\history-controls.rst
+- **Drivetrain**: MK4i swerve + CTRE Kraken motors
+- **Gyro**: CTRE Pigeon
+- **Programming** 
+    - :doc:`Command based </command-and-declarative-programming>`_ Java adapted from CTRE Generated Swerve drive
+    - Improved use of :doc:`CTRE Control Modes </ctre>`_ such as MotionMagic
+    - Improved use of :doc:`PathPlanner </path-planner>`_.
+    - Improved use of :doc:`Limelight </limelight>`_.
+
 --------------------
-2023 Season Changes
+2023 Season
 --------------------
 * **Drivetrain**: MK4i swerve + CTRE-Vex Falcon500 motors
 * **Gyro**: CTRE Pigeon
@@ -26,7 +26,7 @@ Team History with Controls
     * Limelight never made it to the competition bot
 
 --------------------
-2022 Season Changes
+2022 Season
 --------------------
 * **Drivetrain**: MK3 swerve + CTRE-Vex Falcon500 motors
 * **Programming**:
