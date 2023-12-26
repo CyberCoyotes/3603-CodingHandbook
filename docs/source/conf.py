@@ -31,5 +31,18 @@ templates_path = ['_templates']
 
 html_theme = 'sphinx_rtd_theme'
 
+# These folders are copied to the documentation's HTML output
+html_static_path = ['_static']
+
+html_theme_options = {
+    'css_files': [
+        'https://new-help-test.readthedocs.io/en/latest/_static/css/custom.css',
+    ],
+}
+
+html_css_files = [
+    'https://new-help-test.readthedocs.io/en/latest/_static/css/custom.css',
+]
+
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
