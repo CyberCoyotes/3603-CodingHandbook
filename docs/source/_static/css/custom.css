@@ -96,7 +96,7 @@
 	// *           HEADERS
 	// *****************************/
 	h1,h2,h3,h4 {
-		font-family : 'MrEavesRemake';
+		/* font-family : 'MrEavesRemake';*/
 		color       : #58180D;
 	}
 	h1 {
