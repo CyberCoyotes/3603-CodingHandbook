@@ -106,10 +106,11 @@
 		line-height         : 1em;
 		-webkit-column-span : all;
 		-moz-column-span    : all;
+        /*
 		& + p::first-letter {
 			float                   : left;
 			padding-bottom          : 2px;
-			padding-left            : 40px; /* Allow background color to extend into margins */
+			padding-left            : 40px; 
 			margin-top              : -0.3cm;
 			margin-bottom           : -20px;
 			margin-left             : -40px;
@@ -122,6 +123,8 @@
 			background-clip         : text;
 		}
 		& + p::first-line { font-variant : small-caps; }
+
+        */
 	}
 	h2 {
 		margin-top    : 0px;
