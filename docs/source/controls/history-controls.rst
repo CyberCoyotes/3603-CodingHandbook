@@ -10,9 +10,9 @@ Team History with Controls
 - **Drivetrain**: MK4i swerve + CTRE Kraken motors
 - **Gyro**: CTRE Pigeon
 - **Programming** 
-    - `Command based <command-and-declarative-programming>`Java adapted from CTRE Generated Swerve drive
+    - `Command Based Programming` Java adapted from CTRE Generated Swerve drive
     - Improved use of `CTRE`_ control modes such as MotionMagic
-    - Improved use of `PathPlanner <path-planner>`_.
+    - Improved use of `PathPlanner <path-planner.rst>`_.
     - Improved use of `Limelight <limelight>`_.
 
 --------------------
