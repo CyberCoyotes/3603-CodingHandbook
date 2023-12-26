@@ -1,10 +1,10 @@
 
 body.wy-body-for-nav {
-    /* background-image: url("parchmentBackground.jpg");*/
+    background-image: url("parchmentBackground.jpg");
     background-color: #EEE5CE;
 }
 p {
-	font-family: 'MrEavesRemake';
+	font-family: 'SolberaImitationRemake';
 }
 
 body.wy-nav-content {
