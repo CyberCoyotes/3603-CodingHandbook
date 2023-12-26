@@ -11,17 +11,17 @@ body.wy-body-for-nav {
 
 
 
-	/***********************
-	// *           HEADERS
-	// *****************************/
-	h1,h2,h3,h4 {
-		font-family : 'MrEavesRemake';
-		color       : #58180D;
-	}
+/***********************
+// *           HEADERS
+// *****************************/
+h1,h2,h3,h4 {
+	font-family : 'MrEavesRemake';
+	color       : #58180D;
+}
 
-	h1 {
-		color       : #58180D;
-	}
+h1 {
+	color       : #58180D;
+}
 
 body.wy-side-nav-search {
 		/*
@@ -34,7 +34,8 @@ body.wy-side-nav-search {
 		text-align: center;
 		*/
 		/* color: #fcfcfc; */
-		background-color: rgba(0,0,0,0);
+		/* background-color: rgba(0,0,0,0);*/
+		background-color: #9b9b9b;
 	}
 
 body.wy-nav-content {
