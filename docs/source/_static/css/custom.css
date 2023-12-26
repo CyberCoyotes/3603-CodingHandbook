@@ -3,6 +3,9 @@ body.wy-body-for-nav {
     /* background-image: url("parchmentBackground.jpg");*/
     background-color: #EEE5CE;
 }
+p {
+	font-family: 'MrEavesRemake';
+}
 
 body.wy-nav-content {
     /* background-color: rgb(150, 141, 138); */
@@ -15,7 +18,7 @@ body.wy-nav-content {
 	// *           HEADERS
 	// *****************************/
 	h1,h2,h3,h4 {
-		/* font-family : 'MrEavesRemake';*/
+		font-family : 'MrEavesRemake';
 		color       : #58180D;
 	}
 
