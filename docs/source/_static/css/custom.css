@@ -1,15 +1,13 @@
-body {
-	background-color: #EEE5CE;
-	;
-}
-.wy-body-for-nav {
+
+body.wy-body-for-nav {
     /* background-image: url("parchmentBackground.jpg");*/
     background-color: #EEE5CE;
 }
 
-.wy-nav-content {
+body.wy-nav-content {
     /* background-color: rgb(150, 141, 138); */
     /* background-color: rgba(0,0,0,0);*/
+	background: #EEE5CE;
 }
 
 
