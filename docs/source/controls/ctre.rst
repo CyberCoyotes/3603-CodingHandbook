@@ -4,21 +4,28 @@ CTRE
 In the past our team has used a lot of CTRE products (TalonSRX controllers, TalonFX with Falcons, Pigeon2). 
 There are some big changes going from 2023 to 2024 with the release of the Kraken and Phoenix 5 to Phoenix 6 (Pro Licenses) frameworks.
 
---------------
-2023 December
---------------
-Mostly using this space to document my noticings and notes
+
 
 ------
 Links
 ------
 Assume all links are to official documentation unless otherwise noted
 
-- Tuner X can be downloaded from the Microsoft store
+- `Tuner X <https://apps.microsoft.com/detail/9NVV4PWDW27Z?hl=en-us&gl=US>`_ can be downloaded from the Microsoft store
 - `LATEST Phoenix 6 Documentation <https://v6.docs.ctr-electronics.com/en/latest/>`_
 - `Github Examples of Phoenix 6 <https://github.com/CrossTheRoadElec/Phoenix6-Examples>`_
 
 *See also* `links on motion profiling <https://github.com/CyberCoyotes/Handbook/blob/main/docs/source/controls/motion-profiling.rst>`_.
+
+===========
+CTRE Notes
+===========
+
+--------------
+2023 December
+--------------
+Mostly using this space to document my noticings and notes. 
+We have a working arm with Motion Magic (velocity, accelertation) and limits (Stator Current, Supply Current, Forward Limit, Reverse Limit). See also `2024 Taz 3 <https://github.com/CyberCoyotes/2024-Taz3>`_ repo.
 
 -----------
 Randomness

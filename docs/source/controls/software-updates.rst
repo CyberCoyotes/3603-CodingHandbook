@@ -28,10 +28,10 @@ These are not needed by all teams, but we use them.
 - [ ] `PathPlanner <https://github.com/mjansen4857/pathplanner/releases>`_ for for auton.
 - [ ] `Limelight Docs <https://docs.limelightvision.io/en/latest/>`_ | `Downloads <https://limelightvision.io/pages/downloads>`_.
 
-================
-Code Updates
-================
-*After downloading software and updating firmares, you need to import last year's code or start a new project. Part of this process will likely involve updating vendor libraries. The ones we use use have been listed below.*
+---------------
+Updateing Code
+---------------
+After downloading software and updating firmares, you need to import last year's code or start a new project. Part of this process will likely involve updating vendor libraries. The ones we use use have been listed below.
 
 ------------------
 Vendor Libraries
@@ -43,4 +43,4 @@ Vendor Libraries
 --------------------
 Reference Document
 --------------------
-* `Reference Doc <https://docs.google.com/document/d/1pE3562a7Np4BVmMLlAgXqFzefXEp5hn-s_72Zkyl828/edit>`_.
+- `Reference Doc <https://docs.google.com/document/d/1pE3562a7Np4BVmMLlAgXqFzefXEp5hn-s_72Zkyl828/edit>`_.
