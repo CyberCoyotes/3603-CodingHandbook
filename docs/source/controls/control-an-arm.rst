@@ -4,8 +4,7 @@ Controlling an Arm Mechanism
 Some notes about controlling an arm mechanism using a Falcon 500 motor controller.
 
 .. code-block:: java
-
- TalonFXConfiguration configuration = new TalonFXConfiguration();
+TalonFXConfiguration configuration = new TalonFXConfiguration();
     configuration.motionCruiseVelocity = FAST_MOTION_CONSTRAINTS.maxVelocity / SENSOR_VELOCITY_COEFFICIENT;
     configuration.motionAcceleration = FAST_MOTION_CONSTRAINTS.maxAcceleration / SENSOR_VELOCITY_COEFFICIENT;
     configuration.slot0.kP = 0.25;
@@ -14,8 +13,7 @@ Some notes about controlling an arm mechanism using a Falcon 500 motor controlle
     configuration.primaryPID.selectedFeedbackSensor = TalonFXFeedbackDevice.IntegratedSensor.toFeedbackDevice();
     configuration.voltageCompSaturation = 12.0;
 
-See also `https://github.com/FRCTeam2910/2023CompetitionRobot-Public/blob/main/src/main/java/org/frcteam2910/c2023/subsystems/arm/ArmIOFalcon500.java`
-
+See also `FRC 2910 - Arm Falcon <https://github.com/FRCTeam2910/2023CompetitionRobot-Public/blob/main/src/main/java/org/frcteam2910/c2023/subsystems/arm/ArmIOFalcon500.java>`_
 
 ====
 REREFENCES
