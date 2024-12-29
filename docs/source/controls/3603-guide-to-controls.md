@@ -1,112 +1,10 @@
-# FRC Controls Guide {#frc-controls-guide}
-
-## *Table of Contents*
-
-[FRC Controls Guide](#frc-controls-guide)
-
-[Getting Started with Java Resources for New FRC Programmers](#getting-started-with-java-resources-for-new-frc-programmers)
-
-[Key Java Concepts to Focus On](#key-java-concepts-to-focus-on)
-
-[1\. Basic Syntax](#basic-syntax)
-
-[2\. Object-Oriented Programming](#object-oriented-programming)
-
-[3\. Common Data Structures](#common-data-structures)
-
-[Interactive Learning Platforms](#interactive-learning-platforms)
-
-[1\. Codecademy's Java Course](#codecademy's-java-course)
-
-[2\. Oracle's Java Tutorials](#oracle's-java-tutorials)
-
-[Video Tutorials](#video-tutorials)
-
-[1\. FRC Specific Java](#frc-specific-java)
-
-[2\. General Java Fundamentals](#general-java-fundamentals)
-
-[Practice Exercises](#practice-exercises)
-
-[FRC-Specific Resources](#frc-specific-resources)
-
-[Important Tips for Beginners](#important-tips-for-beginners)
-
-[Github and Git](#github-and-git)
-
-[Software Installation & Setup](#software-installation-&-setup)
-
-[Recommended Workflow](#recommended-workflow)
-
-[Primary Installations](#primary-installations)
-
-[FRC Game Tools](#frc-game-tools)
-
-[WPILib Suite](#wpilib-suite)
-
-[Secondary Installations and Firmware Updates](#secondary-installations-and-firmware-updates)
-
-[CTR Electronics](#ctr-electronics)
-
-[REV](#rev)
-
-[Additional Software](#additional-software)
-
-[Vendor Dependencies](#vendor-dependencies)
-
-[CTRE](#ctre)
-
-[REV](#rev-1)
-
-[PathPlanner](#pathplanner)
-
-[Choreo](#choreo)
-
-[Time of Flight Sensor](#time-of-flight-sensor)
-
-[Programming Resources](#programming-resources)
-
-[Command-Based Programming](#command-based-programming)
-
-[Motion Control](#motion-control)
-
-[Vision Systems](#vision-systems)
-
-[Example Code & References](#example-code-&-references)
-
-[Code Examples](#code-examples)
-
-[Community Resources](#community-resources)
-
-[Pre-Competition Checklist](#pre-competition-checklist)
-
-[Hardware](#hardware)
-
-[Software](#software)
-
-[Team History with Controls](#team-history-with-controls)
-
-[2025 Season](#2025-season)
-
-[2024 Season](#2024-season)
-
-[2023 Season](#2023-season)
-
-[2022 Season](#2022-season)
-
-[2019 and Prior](#2019-and-prior)
-
-## 
-
-## Getting Started with Java Resources for New FRC Programmers {#getting-started-with-java-resources-for-new-frc-programmers}
+## Getting Started with Java Resources for New FRC Programmers
 
 You can always start with the official [WPILib Documentation](https://docs.wpilib.org/en/stable/). I found it confusing years ago; too much information and too many "snippets" that never got cleaned up or explained properly. It's improved greatly over the years, but we thought we would put something together to help teams get started as there are many things NOT covered by WPILib docs.
 
-### 
+### Key Java Concepts to Focus On
 
-### Key Java Concepts to Focus On {#key-java-concepts-to-focus-on}
-
-1. #### **Basic Syntax** {#basic-syntax}
+1. #### **Basic Syntax**
 
    - Variables and data types
 
@@ -116,7 +14,7 @@ You can always start with the official [WPILib Documentation](https://docs.wpili
 
    - Basic operators
 
-2. #### **Object-Oriented Programming** {#object-oriented-programming}
+2. #### **Object-Oriented Programming**
 
    - Classes and objects
 
@@ -126,7 +24,7 @@ You can always start with the official [WPILib Documentation](https://docs.wpili
 
    - Polymorphism
 
-3. #### **Common Data Structures** {#common-data-structures}
+3. #### **Common Data Structures**
 
    - Arrays
 
@@ -134,9 +32,9 @@ You can always start with the official [WPILib Documentation](https://docs.wpili
 
    - HashMaps
 
-### Interactive Learning Platforms {#interactive-learning-platforms}
+### Interactive Learning Platforms
 
-1. #### [**Codecademy's Java Course**](https://www.codecademy.com/learn/learn-java) {#codecademy's-java-course}
+1. #### [**Codecademy's Java Course**](https://www.codecademy.com/learn/learn-java)
 
    - Best starting point for complete beginners Highly Recommended
 
@@ -146,7 +44,7 @@ You can always start with the official [WPILib Documentation](https://docs.wpili
 
    - Note: Schools using "Clever" login may get PRO account free
 
-2. #### [**Oracle's Java Tutorials**](https://docs.oracle.com/javase/tutorial/) {#oracle's-java-tutorials}
+2. #### [**Oracle's Java Tutorials**](https://docs.oracle.com/javase/tutorial/)
 
    - Comprehensive official documentation, good reference material
 
@@ -158,9 +56,9 @@ You can always start with the official [WPILib Documentation](https://docs.wpili
 
      - Essential classes
 
-### Video Tutorials {#video-tutorials}
+### Video Tutorials
 
-1. #### **FRC Specific Java** {#frc-specific-java}
+1. #### **FRC Specific Java**
 
    - [FRC 0 to Robot by Sean Sun](https://www.youtube.com/channel/UCmJAoN-yI6AJDv7JJ3372yg)
 
@@ -170,7 +68,7 @@ You can always start with the official [WPILib Documentation](https://docs.wpili
 
      - Clear explanations with examples
 
-2. #### **General Java Fundamentals** {#general-java-fundamentals}
+2. #### **General Java Fundamentals**
 
    - [MIT OpenCourseWare \- Introduction to Programming in Java](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/)
 
@@ -180,7 +78,7 @@ You can always start with the official [WPILib Documentation](https://docs.wpili
 
      - Includes lecture notes and assignments
 
-### Practice Exercises {#practice-exercises}
+### Practice Exercises
 
 1. [CodingBat Java](https://codingbat.com/java)
 
@@ -198,7 +96,7 @@ You can always start with the official [WPILib Documentation](https://docs.wpili
 
    - Covers basic to advanced concepts
 
-### FRC-Specific Resources {#frc-specific-resources}
+### FRC-Specific Resources
 
 1. [WPILib Example Projects](https://docs.wpilib.org/en/stable/docs/software/examples-tutorials/wpilib-examples.html)
 
@@ -216,7 +114,7 @@ You can always start with the official [WPILib Documentation](https://docs.wpili
 
    - Good reference material
 
-### Important Tips for Beginners {#important-tips-for-beginners}
+### Important Tips for Beginners
 
 1. Start Simple
 
@@ -250,7 +148,7 @@ You can always start with the official [WPILib Documentation](https://docs.wpili
 
    - Don't just copy \- understand why things are done certain ways
 
-### Github and Git {#github-and-git}
+### Github and Git
 
 Github and Git are NOT requirements for Java or other programming in FRC, but they can be incredibly helpful. Git is like a time machine for your code and documents. Imagine you're writing a story, and every time you make significant changes, you want to save a snapshot of your work. Git does exactly that for programming projects (though it can be used for any type of files). It keeps track of every change you make, letting you:
 
@@ -292,11 +190,11 @@ The main terms you'll hear:
 
 [Learn Git | Codecademy](https://www.codecademy.com/learn/learn-git) is helpful for concepts, but you DO NOT have to learn the command line for Git. Use the Github Desktop client to commit, push, and pull code.
 
-## Software Installation & Setup {#software-installation-&-setup}
+## Software Installation & Setup
 
 Every season requires updates to both your computer software and robot code. This guide covers essential software updates for the FRC season that we, FRC 3603, use each season.
 
-### Recommended Workflow {#recommended-workflow}
+### Recommended Workflow
 
 1. Start with primary installations
 
@@ -310,7 +208,7 @@ Every season requires updates to both your computer software and robot code. Thi
 
 6. Check for updates throughout the season\!
 
-### Primary Installations {#primary-installations}
+### Primary Installations
 
 These are absolutely needed for every team
 
@@ -327,7 +225,7 @@ Capabilities Provided:
 
 * Write code for the current season
 
-#### **FRC Game Tools** {#frc-game-tools}
+#### **FRC Game Tools**
 
 - [ ] Install [FRC Game Tools Download \- NI](https://www.ni.com/en/support/downloads/drivers/download.frc-game-tools.html).
 
@@ -335,15 +233,15 @@ Capabilities Provided:
 
       - [ ] Configure your radio
 
-#### **WPILib Suite** {#wpilib-suite}
+#### **WPILib Suite**
 
 - [ ] Install [WPILib Suite](https://docs.wpilib.org/en/latest/docs/zero-to-robot/step-2/wpilib-setup.html).
 
-### Secondary Installations and Firmware Updates {#secondary-installations-and-firmware-updates}
+### Secondary Installations and Firmware Updates
 
 These are likely needed by every team
 
-#### **CTR Electronics** {#ctr-electronics}
+#### **CTR Electronics**
 
 - [ ] Install/Update [Phoenix Tuner X](https://apps.microsoft.com/detail/9nvv4pwdw27z?hl=en-us&gl=US). 
 
@@ -357,7 +255,7 @@ Update firmware for any of the following you are using:
 
       - [ ] PDP (Power Distribution Panel) unlikely you have one
 
-#### **REV** {#rev}
+#### **REV**
 
 - [ ] Install/Update [REV Hardware Client](https://docs.revrobotics.com/rev-hardware-client). Update firmware for any of the following you are using:
 
@@ -367,7 +265,7 @@ Update firmware for any of the following you are using:
 
       - [ ] PDH (Power Distribution Hub)
 
-### Additional Software {#additional-software}
+### Additional Software
 
 These may not be needed by every by team
 
@@ -379,45 +277,45 @@ These may not be needed by every by team
 
 - [ ] Download/Updated [GitHub Desktop](https://github.com/apps/desktop) client
 
-### Vendor Dependencies {#vendor-dependencies}
+### Vendor Dependencies
 
 After setting up a new code project each season, you need to (re)add any vendor dependencies a.k.a. Vendor Deps. Robot component manufacturers will often have specialized code libraries to use or enhance the use of their hardware. To use them you have to add their vendor deps. Here are some of the more common vendors.
 
-#### **CTRE** {#ctre}
+#### **CTRE**
 
 * [https://maven.ctr-electronics.com/release/com/ctre/phoenix6/latest/Phoenix6-frc2024-latest.json](https://maven.ctr-electronics.com/release/com/ctre/phoenix6/latest/Phoenix6-frc2024-latest.json)
 
 * [https://maven.ctr-electronics.com/release/com/ctre/phoenix/Phoenix5-frc2024-latest.json](https://maven.ctr-electronics.com/release/com/ctre/phoenix/Phoenix5-frc2024-latest.json)
 
-#### **REV** {#rev-1}
+#### **REV**
 
 * [https://software-metadata.revrobotics.com/REVLib-2024.json](https://software-metadata.revrobotics.com/REVLib-2024.json)
 
-#### **PathPlanner** {#pathplanner}
+#### **PathPlanner**
 
 * [https://3015rangerrobotics.github.io/pathplannerlib/PathplannerLib.json](https://3015rangerrobotics.github.io/pathplannerlib/PathplannerLib.json)
 
-#### **Choreo** {#choreo}
+#### **Choreo**
 
 A relatively new kid on the block. We haven't used it yet, but there seems to be some excitement online
 
 * [https://sleipnirgroup.github.io/ChoreoLib/dep/ChoreoLib.json](https://sleipnirgroup.github.io/ChoreoLib/dep/ChoreoLib.json)
 
-#### **Time of Flight Sensor** {#time-of-flight-sensor}
+#### **Time of Flight Sensor**
 
 * [https://www.playingwithfusion.com/frc/playingwithfusion2024.json](https://www.playingwithfusion.com/frc/playingwithfusion2024.json)
 
 This is meant as a quick reference. For full instructions, please see [Installing 3rd party libraries](https://docs.wpilib.org/en/stable/docs/software/vscode-overview/3rd-party-libraries.html).
 
-## Programming Resources {#programming-resources}
+## Programming Resources
 
-### Command-Based Programming {#command-based-programming}
+### Command-Based Programming
 
 1. [Command-Based Programming (WPILib)](https://docs.wpilib.org/en/stable/docs/software/commandbased/index.html)
 
 2. [FRC 0 to Autonomous: Command-Based Programming](https://youtu.be/VoxeXqy1bdQ)
 
-### Motion Control {#motion-control}
+### Motion Control
 
 1. [Motion Magic and Motion Profiling (CTRE)](https://docs.ctre-phoenix.com/en/stable/ch16_ClosedLoop.html)
 
@@ -425,7 +323,7 @@ This is meant as a quick reference. For full instructions, please see [Installin
 
 3. [PID Theory and Robotics Explained](https://youtu.be/_bWvXn4ilrY)
 
-### Vision Systems {#vision-systems}
+### Vision Systems
 
 1. [Limelight Documentation](https://docs.limelightvision.io/en/latest/)
 
@@ -433,9 +331,9 @@ This is meant as a quick reference. For full instructions, please see [Installin
 
 3. [AprilTag Introduction](https://docs.wpilib.org/en/stable/docs/software/vision-processing/apriltag/index.html)
 
-## Example Code & References {#example-code-&-references}
+## Example Code & References
 
-### Code Examples {#code-examples}
+### Code Examples
 
 1. [WPILib Example Projects](https://docs.wpilib.org/en/stable/docs/software/examples-tutorials/wpilib-examples.html)
 
@@ -443,7 +341,7 @@ This is meant as a quick reference. For full instructions, please see [Installin
 
 3. [REV Robotics Example Code](https://github.com/REVrobotics/SPARK-MAX-Examples)
 
-### Community Resources {#community-resources}
+### Community Resources
 
 1. [Chief Delphi Programming Forum](https://www.chiefdelphi.com/c/technical/programming/55)
 
@@ -453,9 +351,9 @@ These barely scratch the surface of what's available at Chief Delphi and Github.
 
 AI chat bots, like Claude and ChatGPT are also changing how we do programming research.
 
-## Pre-Competition Checklist {#pre-competition-checklist}
+## Pre-Competition Checklist
 
-### Hardware {#hardware}
+### Hardware
 
 1. Cables, Cords and adapters
 
@@ -505,7 +403,7 @@ AI chat bots, like Claude and ChatGPT are also changing how we do programming re
 
    * Spare fuses (multiple amperage ratings)
 
-### Software {#software}
+### Software
 
 1. Firmware Verification
 
@@ -623,9 +521,9 @@ AI chat bots, like Claude and ChatGPT are also changing how we do programming re
 
    - [ ] Driver/operator position setup
 
-## Team History with Controls {#team-history-with-controls}
+## Team History with Controls
 
-### 2025 Season {#2025-season}
+### 2025 Season
 
 Much of our hardware and software remains the same as 2024, we are just looking to level up this year\!
 
@@ -649,7 +547,7 @@ Much of our hardware and software remains the same as 2024, we are just looking 
 
   - Restructuring code base to be more interchangeable from season to season, and robot to robot.
 
-### 2024 Season {#2024-season}
+### 2024 Season
 
 - Drivetrain: MK4i swerve \+ CTRE Kraken motors
 
@@ -669,7 +567,7 @@ Much of our hardware and software remains the same as 2024, we are just looking 
 
   - Implemented Time of Flight (TOF) sensor "Playing with Fusion"
 
-### 2023 Season {#2023-season}
+### 2023 Season
 
 - Drivetrain: MK4i swerve \+ CTRE-Vex Falcon500 motors
 
@@ -683,7 +581,7 @@ Much of our hardware and software remains the same as 2024, we are just looking 
 
   - Limelight never made it to the competition bot
 
-### 2022 Season {#2022-season}
+### 2022 Season
 
 - Drivetrain: MK3 swerve \+ CTRE-Vex Falcon500 motors
 
@@ -697,7 +595,7 @@ Much of our hardware and software remains the same as 2024, we are just looking 
 
   - PhotonVision never made it out of beta
 
-### 2019 and Prior {#2019-and-prior}
+### 2019 and Prior
 
 - Drivetrain: Mecanum, tank drive, rhinotracks, or omni wheels combined with others depending on the game demands
 
