@@ -6,8 +6,8 @@ project = 'FRC Players Handbook'
 copyright = 'Pre-2024 Season'
 author = 'Wile E. Coyote'
 
-release = '0.3'
-version = '2023.12.25'
+release = '1.0'
+version = '2024.12.29'
 
 # -- General configuration
 
@@ -17,6 +17,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'myst_parser',
 ]
 
 intersphinx_mapping = {
