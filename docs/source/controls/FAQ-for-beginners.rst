@@ -1,8 +1,8 @@
-====
+
 FAQ and Getting Started with Programming
 ====
 
-VS Code has some built in examples and templates to get you started. We have uploaded some of the Timed Robot examples and Command Robot examples to out Github page and compliled a list of other teams' code `here <https://cyber-coyotes-handbook.readthedocs.io/en/latest/controls/code-examples.html`_. The FRC community is very good about helping each other. 
+VS Code has some built in examples and templates to get you started. We have uploaded some of the Timed Robot examples and Command Robot examples to out Github page and compliled a list of other teams' code. The FRC community is very good about helping each other. 
 
 A few questions when helping new teams with code: 
 ====
