@@ -10,7 +10,7 @@ FRC students who understand the basics of Command-Based and want to level up. Th
 
 ## **Your Learning Path**
 
-```
+```java
 ┌─────────────────────────────────────────────────────────────┐
 │                LEVEL 3: Java for FRC                        │
 │              (Subsystems, Commands, Bindings)               │
