@@ -653,10 +653,10 @@ public class IntakeCommands {
 
 Notice how the FRC version:
 
-- No `while` loop — framework handles it  
-- No `else` for stopping — `startEnd` handles cleanup  
-- No manual `update()` calls — `periodic()` runs automatically  
-- Declarations are separate from logic
+* No `while` loop — framework handles it  
+* No `else` for stopping — `startEnd` handles cleanup  
+* No manual `update()` calls — `periodic()` runs automatically  
+* Declarations are separate from logic
 
 ---
 
@@ -664,17 +664,17 @@ Notice how the FRC version:
 
 Once you're comfortable with:
 
-- Subsystems extending `SubsystemBase`  
-- Basic command factories  
-- Button bindings in RobotContainer  
-- Constants organization
+* Subsystems extending `SubsystemBase`  
+* Basic command factories  
+* Button bindings in RobotContainer  
+* Constants organization
 
 Continue to **Level 4: Advanced FRC Patterns**:
 
-- Command compositions (sequence, parallel, race)  
-- Complex triggers and bindings  
-- State machines in Command-Based  
-- Autonomous routines
+* Command compositions (sequence, parallel, race)  
+* Complex triggers and bindings  
+* State machines in Command-Based  
+* Autonomous routines
 
 ---
 
@@ -746,4 +746,3 @@ controller.a().whileTrue(cmd);    // While held
 controller.a().onFalse(cmd);      // Once on release
 controller.a().toggleOnTrue(cmd); // Toggle
 ```
-

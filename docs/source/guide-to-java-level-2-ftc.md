@@ -494,15 +494,15 @@ double drive = -gamepad1.left_stick_y;  // Negate to make forward = positive
 ## **Practice Exercises**
 
 1. **Basic TeleOp:** Create a tank drive that uses both joysticks  
-     
+
 2. **Add an Intake:** Add a motor controlled by the A and B buttons  
-     
+
 3. **Add a Claw:** Add a servo controlled by X (open) and Y (close)  
-     
+
 4. **Create a Toggle:** Make the claw toggle open/closed with one button  
-     
+
 5. **Simple Auto:** Drive forward, turn 90°, drive forward again  
-     
+
 6. **Subsystem Practice:** Create an `Arm` subsystem class with `raise()`, `lower()`, and `stop()` methods
 
 ---
@@ -587,4 +587,3 @@ gamepad1.left_trigger    // 0 to 1
 telemetry.addData("Label", value);
 telemetry.update();  // Don't forget this!
 ```
-

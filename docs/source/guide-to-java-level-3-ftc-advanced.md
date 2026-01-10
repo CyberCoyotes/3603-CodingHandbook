@@ -957,4 +957,3 @@ You now have the tools to write competition-quality FTC code:
 When you're ready for FRC, these patterns will translate directly — FRC's Command-Based framework is essentially a more sophisticated version of what you just learned\!
 
 Continue to **Level 3: Java Refresher for FRC** when you join a high school team.
-

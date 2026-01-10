@@ -10,14 +10,14 @@ Any FIRST student — FTC or FRC — who needs to learn Java basics. No robot co
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                    LEVEL 1: Java Foundations                		│
-│                    (You are here)                           		│
+│                    LEVEL 1: Java Foundations                │
+│                    (You are here)                           │
 └─────────────────────────────────────────────────────────────┘
                               │
                               ▼
         ┌──────────────────┴─────────────────────┐
-        │                     	                      │
-        ▼                                           ▼
+        │                                        │
+        ▼                                        ▼
 ┌───────────────┐                         ┌───────────────┐
 │   LEVEL 2     │                         │   LEVEL 3     │
 │ Java for FTC  │                         │ Java for FRC  │
@@ -541,15 +541,15 @@ System.out.println("Average: " + average);  // Average: 5.0
 
 Before moving to Level 2, you should be able to:
 
-- [ ] Declare variables of different types (int, double, boolean, String)  
-- [ ] Write if/else statements with multiple conditions  
-- [ ] Write for loops that count up or down  
-- [ ] Write while loops that stop on a condition  
-- [ ] Create methods that take parameters  
-- [ ] Create methods that return values  
-- [ ] Create a simple class with fields, constructor, and methods  
-- [ ] Create objects from a class and call their methods  
-- [ ] Create and loop through arrays
+* [ ] Declare variables of different types (int, double, boolean, String)  
+* [ ] Write if/else statements with multiple conditions  
+* [ ] Write for loops that count up or down  
+* [ ] Write while loops that stop on a condition  
+* [ ] Create methods that take parameters  
+* [ ] Create methods that return values  
+* [ ] Create a simple class with fields, constructor, and methods  
+* [ ] Create objects from a class and call their methods  
+* [ ] Create and loop through arrays
 
 ## **Extension Resources**
 
@@ -653,4 +653,3 @@ Once you've completed this guide and can check off all the "Check Your Understan
 * **FRC Students:** Continue to **Level 3: Java Refresher for FRC**
 
 Remember: The goal isn't to memorize everything — it's to understand enough to start writing robot code, then learn more as you go\!
-
