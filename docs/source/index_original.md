@@ -1,4 +1,7 @@
-==== Cyber Coyotes\' Handbook ==== Welcome to our FIRST documentation
+==== Cyber Coyotes\' Handbook ==== 
+
+Welcome to our FIRST documentation
+
 project. The aim of the proejct is to share our learning with future
 team members and the larger FIRST community especially those just
 starting out. The initial focus (2022-2023) is on Controls and
